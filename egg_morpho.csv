@@ -1,0 +1,129 @@
+﻿Serie;ID Alga;Site;Management;Latitud;Longitud;Fecha;Ub. Transecto;Depth.m;DD;NE;LE;LT;Frondosity;Species;NE.egg;Total.egg;E1;E2;E3;E4;E5;E6;E7;E8;E9;E10;E11;E12;E13;E14;E15;E16;E17;E18;E19;Taliepus;Observación;Datos tomados
+1;1;Chañaral de Aceituno ALA;OA;-29.05396;-71.48563;25/10/2022;;21.6;56;9;170;220;3;Schroederichthys chilensis;3;8;2;5;1;;;;;;;;;;;;;;;;;;;Italo F
+2;2;Chañaral de Aceituno ALA;OA;-29.05396;-71.48563;25/10/2022;;19.8;37;2;126;190;3;Schroederichthys chilensis;2;19;11;8;;;;;;;;;;;;;;;;;;;;Italo F
+3;3;Chañaral de Aceituno ALA;OA;-29.05396;-71.48563;25/10/2022;;20.2;52;4;145;190;3;Schroederichthys chilensis;3;41;27;1;13;;;;;;;;;;;;;;;;;;;Italo F
+4;1;Chañaral de Aceituno ALA;OA;-29.04991;-71.48666;26/10/2022;;15.6;25;3;164;232;3;Schroederichthys chilensis;2;61;46;15;;;;;;;;;;;;;;;;;;;;Italo F
+5;2;Chañaral de Aceituno ALA;OA;-29.04991;-71.48666;26/10/2022;;16;40;6;87;200;2;Schroederichthys chilensis;1;3;3;;;;;;;;;;;;;;;;;;;;;Isabella/Italo F
+6;3;Chañaral de Aceituno ALA;OA;-29.04991;-71.48666;26/10/2022;;15.9;32;2;90;236;2;Schroederichthys chilensis;2;3;1;2;;;;;;;;;;;;;;;;;;;Los huevos estaban en una postura de varios manojos de tendrils sin huevos;Isabella/Italo F
+7;4;Chañaral de Aceituno ALA;OA;-29.04991;-71.48666;26/10/2022;;15.7;50;11;129;233;3;Schroederichthys chilensis;1;28;28;;;;;;;;;;;;;;;;;;;;;Isabella/Italo F
+8;5;Chañaral de Aceituno ALA;OA;-29.04991;-71.48666;26/10/2022;;15.8;15;1;89;227;3;Schroederichthys chilensis;1;21;21;;;;;;;;;;;;;;;;;;;;;Isabella/Italo F
+9;6;Chañaral de Aceituno ALA;OA;-29.04991;-71.48666;26/10/2022;;15.9;35;5;103;169;NA;Schroederichthys chilensis;2;32;25;7;;;;;;;;;;;;;;;;;;;;Isabella/Italo F
+10;7;Chañaral de Aceituno ALA;OA;-29.04991;-71.48666;26/10/2022;;15.8;38;4;95;229;NA;Schroederichthys chilensis;3;57;7;28;22;;;;;;;;;;;;;;;;;;;Isabella/Italo F
+11;8;Chañaral de Aceituno ALA;OA;-29.04991;-71.48666;26/10/2022;;15.4;44;2;107;215;NA;Schroederichthys chilensis;1;14;14;;;;;;;;;;;;;;;;;;;;;Isabella/Italo F
+12;9;Chañaral de Aceituno ALA;OA;-29.04991;-71.48666;26/10/2022;;16;26;4;138;228;NA;Schroederichthys chilensis;2;38;14;24;;;;;;;;;;;;;;;;;;;;Isabella/Italo F
+13;10;Chañaral de Aceituno ALA;OA;-29.04991;-71.48666;26/10/2022;;13;45;5;110;200;3;Schroederichthys chilensis;5;69;5;12;5;45;2;;;;;;;;;;;;;;;;;Gabriela Winkler/Juan Carlos Gonzalez 
+14;1;Chañaral de Aceituno C;AMERB;-29.13811;-71.49955;27/10/2022;;14.6;70;16;125;224;3;Schroederichthys chilensis;6;64;17;9;2;4;17;15;;;;;;;;;;;;;;;la alga 10 y 11 estaban unidas por el estipe 6 que tenia una postura d 15 huevos, amarrando ambos estipes. Habian unas 5 a 8 capsulas vacias ;Gabriela Winkler/Juan Carlos Gonzalez 
+15;2;Chañaral de Aceituno C;AMERB;-29.13811;-71.49955;27/10/2022;;14.6;65;14;134;263;3;Schroederichthys chilensis;4;35;9;2;18;6;;;;;;;;;;;;;;;;;la alga 10 y 11 estaban unidas por el estipe 6 que tenia una postura d 15 huevos, amarrando ambos estipes. Habian unas 5 a 8 capsulas vacias ;Gabriela Winkler/Juan Carlos Gonzalez 
+16;1;Punta de Tralca;OA;-33.42367;-71.70604;28/11/2022;;11.5;41;8;137;227;3;Schroederichthys chilensis;2;42;37;5;;;;;;;;;;;;;;;;;;;;Yayo/Italo F
+17;2;Punta de Tralca;OA;-33.42367;-71.70604;28/11/2022;;11.3;54;11;185;242;3;Schroederichthys chilensis;1;82;82;;;;;;;;;;;;;;;;;;;;;Yayo/Italo F
+18;3;Punta de Tralca;OA;-33.42367;-71.70604;28/11/2022;;11.7;40;16;158;276;3;Schroederichthys chilensis;2;36;27;9;;;;;;;;;;;;;;;;;;;;Yayo/Italo F
+19;4;Punta de Tralca;OA;-33.42367;-71.70604;28/11/2022;;11.4;38;8;200;230;3;Schroederichthys chilensis;2;95;11;84;;;;;;;;;;;;;;;;;;;Estipes unidas por huevos;Yayo/Italo F
+20;5;Punta de Tralca;OA;-33.42367;-71.70604;28/11/2022;;11.8;45;16;167;280;3;Schroederichthys chilensis;2;31;27;4;;;;;;;;;;;;;;;;;;;;Yayo/Italo F
+21;6;Punta de Tralca;OA;-33.42367;-71.70604;28/11/2022;;12.8;50;17;158;271;3;Schroederichthys chilensis;6;228;55;66;1;4;29;73;;;;;;;;;;;;;;;;Yayo/Italo F
+22;7;Punta de Tralca;OA;-33.42367;-71.70604;28/11/2022;;12.6;45;14;190;300;3;Schroederichthys chilensis;2;92;43;49;;;;;;;;;;;;;;;;;;;;Yayo/Italo F
+23;8;Punta de Tralca;OA;-33.42367;-71.70604;28/11/2022;;12.5;56;11;192;327;3;Schroederichthys chilensis;1;9;9;;;;;;;;;;;;;;;;;;;;;Yayo/Italo F
+24;9;Punta de Tralca;OA;-33.42367;-71.70604;28/11/2022;;12.3;31;3;196;335;3;Schroederichthys chilensis;1;51;51;;;;;;;;;;;;;;;;;;;;;Yayo/Italo F
+25;1;Caleta Cartagena;OA;-33.55081;-71.614579;14/12/2022;;5.1;23;6;43;141;3;Schroederichthys chilensis;4;62;17;43;1;1;;;;;;;;;;;;;;;;1;;Tomy W/ Italo
+26;2;Caleta Cartagena;OA;-33.55081;-71.614579;14/12/2022;;5.2;25;5;64;153;3;Schroederichthys chilensis;3;13;14;10;;;;;;;;;;;;;;;;;;;;Tomy W/ Italo
+27;3;Caleta Cartagena;OA;-33.55081;-71.614579;14/12/2022;;5.3;22;5;68;175;3;Schroederichthys chilensis;1;15;15;;;;;;;;;;;;;;;;;;;;;Tomy W/ Italo
+28;4;Caleta Cartagena;OA;-33.55081;-71.614579;14/12/2022;;5.3;26;3;43;131;3;Sympterygia spp;2;3;2;1;;;;;;;;;;;;;;;;;;;;Tomy W/ Italo
+29;4;Caleta Cartagena;OA;-33.55081;-71.614579;14/12/2022;;5.3;26;3;43;131;3;Schroederichthys chilensis;2;2;1;;;;;;;;;;;;;;;;;;;;;Tomy W/ Italo
+30;5;Caleta Cartagena;OA;-33.55081;-71.614579;14/12/2022;;5.4;22;2;45;151;3;Schroederichthys chilensis;1;3;3;;;;;;;;;;;;;;;;;;;;;Tomy W/ Italo
+31;6;Caleta Cartagena;OA;-33.55081;-71.614579;14/12/2022;;5.8;20;4;80;171;3;Schroederichthys chilensis;3;85;41;21;23;;;;;;;;;;;;;;;;;1;;Tomy W/ Italo
+32;7;Caleta Cartagena;OA;-33.55081;-71.614579;14/12/2022;;5.8;21;3;46;140;2;Sympterygia spp;1;1;1;;;;;;;;;;;;;;;;;;;1;;Tomy W/ Italo
+33;7;Caleta Cartagena;OA;-33.55081;-71.614579;14/12/2022;;5.8;21;3;46;140;2;Schroederichthys chilensis;1;6;6;;;;;;;;;;;;;;;;;;;1;;Tomy W/ Italo
+34;8;Caleta Cartagena;OA;-33.55081;-71.614579;14/12/2022;;5.8;27;3;70;171;2;Schroederichthys chilensis;2;60;25;35;;;;;;;;;;;;;;;;;;1;;Tomy W/ Italo
+35;9;Caleta Cartagena;OA;-33.55081;-71.614579;14/12/2022;;5.8;23;3;52;144;2;Schroederichthys chilensis;3;32;29;2;1;;;;;;;;;;;;;;;;;3;;Tomy W/ Italo
+36;10;Caleta Cartagena;OA;-33.55081;-71.614579;14/12/2022;;6.5;20;4;64;158;2;Schroederichthys chilensis;3;48;7;37;4;;;;;;;;;;;;;;;;;2;;Tomy W/ Italo
+37;11;Caleta Cartagena;OA;-33.55081;-71.614579;14/12/2022;;6.2;24;6;51;165;3;Sympterygia spp;1;4;4;;;;;;;;;;;;;;;;;;;;;Tomy W/ Italo
+38;11;Caleta Cartagena;OA;-33.55081;-71.614579;14/12/2022;;6.2;24;6;51;165;3;Schroederichthys chilensis;5;68;3;24;14;24;3;;;;;;;;;;;;;;;2;Hembra pintarroja posada poniendo huevo;Tomy W/ Italo
+39;12;Caleta Cartagena;OA;-33.55081;-71.614579;14/12/2022;;6.2;27;3;42;158;3;Sympterygia spp;2;5;2;3;;;;;;;;;;;;;;;;;;2;;Tomy W/ Italo
+40;12;Caleta Cartagena;OA;-33.55081;-71.614579;14/12/2022;;6.2;27;3;42;158;3;Schroederichthys chilensis;2;69;23;46;;;;;;;;;;;;;;;;;;2;;Tomy W/ Italo
+41;13;Caleta Cartagena;OA;-33.55081;-71.614579;14/12/2022;;6.3;25;4;82;187;3;Sympterygia spp;1;2;;;;;;;;;;;;;;;;;;;;1;;Tomy W/ Italo
+42;13;Caleta Cartagena;OA;-33.55081;-71.614579;14/12/2022;;6.3;25;4;82;187;3;Schroederichthys chilensis;2;58;29;29;;;;;;;;;;;;;;;;;;1;;Tomy W/ Italo
+43;14;Caleta Cartagena;OA;-33.55081;-71.614579;14/12/2022;;6.2;23;3;37;136;3;Schroederichthys chilensis;2;32;4;28;;;;;;;;;;;;;;;;;;;;Tomy W/ Italo
+44;15;Caleta Cartagena;OA;-33.55081;-71.614579;14/12/2022;;3.6;13;1;58;177;2;Schroederichthys chilensis;1;3;3;;;;;;;;;;;;;;;;;;;;;Tomy W/ Italo
+45;16;Caleta Cartagena;OA;-33.55081;-71.614579;14/12/2022;;3.6;30;10;63;180;3;Schroederichthys chilensis;2;16;6;10;;;;;;;;;;;;;;;;;;;;Tomy W/ Italo
+46;17;Caleta Cartagena;OA;-33.55081;-71.614579;14/12/2022;;4.6;25;4;53;168;3;Schroederichthys chilensis;3;36;6;29;1;;;;;;;;;;;;;;;;;1;;Tomy W/ Italo
+47;18;Caleta Cartagena;OA;-33.55081;-71.614579;14/12/2022;;4.5;21;3;58;183;3;Sympterygia spp;1;1;;;;;;;;;;;;;;;;;;;;2;;Tomy W/ Italo
+48;18;Caleta Cartagena;OA;-33.55081;-71.614579;14/12/2022;;4.5;21;3;58;183;3;Schroederichthys chilensis;2;24;23;1;;;;;;;;;;;;;;;;;;2;;Tomy W/ Italo
+49;1;Ventanas;AMERB;-32.733082;-71.50199;24/01/2023;Termistor;10.4;33;5;100;198;3;Schroederichthys chilensis;3;56;41;7;8;;;;;;;;;;;;;;;;;;;Tomy W/ Italo
+50;2;Ventanas;AMERB;-32.733082;-71.50199;24/01/2023;Termistor;10.1;23;7;115;216;2;Schroederichthys chilensis;2;23;15;8;;;;;;;;;;;;;;;;;;;;Tomy W/ Italo
+51;3;Ventanas;AMERB;-32.733082;-71.50199;24/01/2023;Termistor;10.1;48;9;150;277;3;Schroederichthys chilensis;2;48;8;40;;;;;;;;;;;;;;;;;;;;Tomy W/ Italo
+52;4;Ventanas;AMERB;-32.733082;-71.50199;24/01/2023;Termistor;10.4;22;1;92;230;1;Schroederichthys chilensis;1;14;14;;;;;;;;;;;;;;;;;;;;;Tomy W/ Italo
+53;5;Ventanas;AMERB;-32.733082;-71.50199;24/01/2023;Termistor;9.9;30;8;84;217;3;Schroederichthys chilensis;1;11;11;;;;;;;;;;;;;;;;;;;;;Tomy W/ Italo
+54;6;Ventanas;AMERB;-32.733082;-71.50199;24/01/2023;Termistor;9.9;87;6;120;234;3;Schroederichthys chilensis;2;42;35;7;;;;;;;;;;;;;;;;;;;;Tomy W/ Italo
+55;7;Ventanas;AMERB;-32.733082;-71.50199;24/01/2023;Termistor;9.8;32;9;91;203;3;Schroederichthys chilensis;2;23;19;4;;;;;;;;;;;;;;;;;;1;;Tomy W/ Italo
+56;8;Ventanas;AMERB;-32.733082;-71.50199;24/01/2023;Termistor;9.8;44;15;100;178;3;Schroederichthys chilensis;1;30;30;;;;;;;;;;;;;;;;;;;;;Tomy W/ Italo
+57;9;Ventanas;AMERB;-32.733082;-71.50199;24/01/2023;Termistor;10;71;5;100;243;3;Schroederichthys chilensis;3;65;53;11;1;;;;;;;;;;;;;;;;;;ID rojo-amarillo (alga 1);Tomy W/ Italo
+58;10;Ventanas;AMERB;-32.733082;-71.50199;24/01/2023;Termistor;10.4;42;5;77;200;3;Schroederichthys chilensis;2;6;4;2;;;;;;;;;;;;;;;;;;;Algas unidas por racimo de 29 huevos;Tomy W/ Italo
+59;11;Ventanas;AMERB;-32.733082;-71.50199;24/01/2023;Termistor;10.4;48;6;80;192;3;Schroederichthys chilensis;2;31;2;29;;;;;;;;;;;;;;;;;;;Algas unidas por racimo de 29 huevos, ID amarillo (alga 2);Tomy W/ Italo
+60;3;Chañaral de Aceituno C;AMERB;-29.13811;-71.49955;08/03/2023;;15.6;15;1;160;196;3;Schroederichthys chilensis;1;29;29;;;;;;;;;;;;;;;;;;;;;Gabi / Tomi
+61;4;Chañaral de Aceituno C;AMERB;-29.13811;-71.49955;08/03/2023;;13.2;18;1;214;232;3;Schroederichthys chilensis;1;15;15;;;;;;;;;;;;;;;;;;;;;Gabi / Tomi
+62;5;Chañaral de Aceituno C;AMERB;-29.13811;-71.49955;08/03/2023;;13.2;54;5;146;240;3;Schroederichthys chilensis;1;38;38;;;;;;;;;;;;;;;;;;;;;Gabi / Tomi
+63;6;Chañaral de Aceituno C;AMERB;-29.13811;-71.49955;08/03/2023;;12.3;27;1;168;288;3;Schroederichthys chilensis;1;55;55;;;;;;;;;;;;;;;;;;;;;Gabi / Tomi
+64;7;Chañaral de Aceituno C;AMERB;-29.13811;-71.49955;08/03/2023;;12.1;32;4;145;262;3;Schroederichthys chilensis;3;98;2;83;13;;;;;;;;;;;;;;;;;;;Gabi / Tomi
+65;8;Chañaral de Aceituno C;AMERB;-29.13811;-71.49955;08/03/2023;;14.2;32;3;157;264;3;Schroederichthys chilensis;3;22;4;13;5;;;;;;;;;;;;;;;;;;Unido con alga 9 por estipe de 4 huevos;Gabi / Tomi
+66;9;Chañaral de Aceituno C;AMERB;-29.13811;-71.49955;08/03/2023;;15.1;33;7;158;254;3;Schroederichthys chilensis;4;103;4;52;4;43;;;;;;;;;;;;;;;;;Unido con alga 8 por estipe de 4 huevos y con alga 10 por estipe de 43;Gabi / Tomi
+67;10;Chañaral de Aceituno C;AMERB;-29.13811;-71.49955;08/03/2023;;15.1;23;4;163;255;3;Schroederichthys chilensis;1;43;43;;;;;;;;;;;;;;;;;;;;Unido con alga 9 por estipe de 43 huevos;Gabi / Tomi
+68;10;Punta de Tralca;OA;-33.42367;-71.70604;14/06/2023;;7.2;65;21;279;339;3;Schroederichthys chilensis;5;248;21;80;91;24;32;;;;;;;;;;;;;;;1;;
+69;11;Punta de Tralca;OA;-33.42367;-71.70604;14/06/2023;;7.8;56;24;233;285;3;Schroederichthys chilensis;19;606;13;16;39;62;61;21;18;63;53;11;10;29;3;14;66;24;88;5;10;2;;
+70;12;Punta de Tralca;OA;-33.42367;-71.70604;14/06/2023;;7;55;18;235;275;3;Schroederichthys chilensis;17;518;47;50;27;21;1;15;10;3;15;1;94;28;101;35;7;60;3;;;3;Alga 5 punta de tralca (punto nuevo);
+71;13;Punta de Tralca;OA;-33.42367;-71.70604;14/06/2023;;7.6;43;12;170;260;3;Schroederichthys chilensis;4;47;33;12;1;1;;;;;;;;;;;;;;;;;;
+72;14;Punta de Tralca;OA;-33.42367;-71.70604;14/06/2023;;14;45;16;197;267;3;Schroederichthys chilensis;2;82;39;43;;;;;;;;;;;;;;;;;;;;
+73;15;Punta de Tralca;OA;-33.42367;-71.70604;14/06/2023;;13;50;25;176;266;3;Schroederichthys chilensis;8;279;34;50;80;24;10;28;27;26;;;;;;;;;;;;;Revisar en planilla los numeros de huevos;
+74;1;Las Cruces AMERB sector B;AMERB;-33.49635;-71.64612;15/06/2023;Recibidor 10;17;21;3;77;113;1;Sympterygia spp;1;60;;;;;;;;;;;;;;;;;;;;;;Italo F
+75;1;Las Cruces AMERB sector B;AMERB;-33.49635;-71.64612;15/06/2023;Recibidor 10;17;21;3;77;113;1;Schroederichthys chilensis;2;2;1;1;;;;;;;;;;;;;;;;;;;;Italo F
+76;2;Las Cruces AMERB sector B;AMERB;-33.49635;-71.64612;15/06/2023;Recibidor 10;17;28;5;110;160;1;Sympterygia spp;1;13;;;;;;;;;;;;;;;;;;;;;;Italo F
+77;2;Las Cruces AMERB sector B;AMERB;-33.49635;-71.64612;15/06/2023;Recibidor 10;17;28;5;110;160;1;Schroederichthys chilensis;1;1;1;;;;;;;;;;;;;;;;;;;;;Italo F
+78;3;Las Cruces AMERB sector B;AMERB;-33.49635;-71.64612;15/06/2023;Recibidor 10;17;20;1;125;125;1;Sympterygia spp;1;135;;;;;;;;;;;;;;;;;;;;;Alga sin frondas;Italo F
+79;1;Quintay A;AMERB;-33.18375;-71.689691;01/12/2024;1;NA;29;3;150;200;3;Schroederichthys chilensis;1;23;23;;;;;;;;;;;;;;;;;;;;;Italo F/ Yayo
+80;2;Quintay A;AMERB;-33.18375;-71.689691;01/12/2024;1;NA;38;3;148;160;3;Schroederichthys chilensis;2;6;4;2;;;;;;;;;;;;;;;;;;;;Italo F/ Yayo
+81;3;Quintay A;AMERB;-33.18375;-71.689691;01/12/2024;1;NA;43;12;173;193;3;Schroederichthys chilensis;3;68;41;24;3;;;;;;;;;;;;;;;;;;;Italo F/ Yayo
+82;4;Quintay A;AMERB;-33.18375;-71.689691;01/12/2024;1;NA;39;7;123;142;3;Schroederichthys chilensis;1;6;6;;;;;;;;;;;;;;;;;;;;;Italo F/ Yayo
+83;5;Quintay A;AMERB;-33.18375;-71.689691;01/12/2024;1;NA;45;12;142;175;3;Schroederichthys chilensis;5;57;29;6;7;10;5;;;;;;;;;;;;;;;;;Italo F/ Yayo
+84;6;Quintay A;AMERB;-33.18375;-71.689691;01/12/2024;1;NA;48;19;212;225;3;Schroederichthys chilensis;2;42;40;2;;;;;;;;;;;;;;;;;;;;Italo F/ Yayo
+85;7;Quintay A;AMERB;-33.18375;-71.689691;01/12/2024;1;NA;38;4;178;193;2;Schroederichthys chilensis;4;37;11;2;23;1;;;;;;;;;;;;;;;;;;Italo F/ Yayo
+86;8;Quintay A;AMERB;-33.18375;-71.689691;01/12/2024;1;NA;29;8;126;129;3;Schroederichthys chilensis;2;18;14;4;;;;;;;;;;;;;;;;;;;;Italo F/ Yayo
+87;1;Cobquecura;AMERB;-36.164783;-72.81875;22/03/2024;3 (termistor);11.2;42;8;28;280;3;Schroederichthys chilensis;2;24;23;1;;;;;;;;;;;;;;;;;;;Datos LE mal tomados;Italo F/Javier Z
+88;2;Cobquecura;AMERB;-36.164783;-72.81875;22/03/2024;4 (termistor);11.4;54;15;34;300;3;Schroederichthys chilensis;2;36;14;22;;;;;;;;;;;;;;;;;;;Datos LE mal tomados;Italo F/Javier Z
+89;3;Cobquecura;AMERB;-36.164783;-72.81875;22/03/2024;5 (termistor);12.2;44;7;31;280;3;Schroederichthys chilensis;1;36;36;;;;;;;;;;;;;;;;;;;;Datos LE mal tomados;Italo F/Javier Z
+90;4;Cobquecura;AMERB;-36.164783;-72.81875;22/03/2024;6 (termistor);12;36;4;55;225;3;Schroederichthys chilensis;2;8;2;6;;;;;;;;;;;;;;;;;;;Datos LE mal tomados;Italo F/Javier Z
+91;5;Cobquecura;AMERB;-36.164783;-72.81875;22/03/2024;7 (termistor);12;35;5;62;218;3;Schroederichthys chilensis;2;5;1;4;;;;;;;;;;;;;;;;;;;Datos LE mal tomados;Italo F/Javier Z
+92;6;Cobquecura;AMERB;-36.164783;-72.81875;22/03/2024;8 (termistor);11.1;43;11;62;280;3;Schroederichthys chilensis;2;9;1;8;;;;;;;;;;;;;;;;;;;Datos LE mal tomados;Italo F/Javier Z
+93;7;Cobquecura;AMERB;-36.164783;-72.81875;22/03/2024;9 (termistor);11.7;68;12;46;256;3;Schroederichthys chilensis;7;56;32;3;2;11;1;2;5;;;;;;;;;;;;;;Datos LE mal tomados;Italo F/Javier Z
+94;8;Cobquecura;AMERB;-36.164783;-72.81875;22/03/2024;10 (termistor);12.3;63;4;43;310;3;Schroederichthys chilensis;1;31;31;;;;;;;;;;;;;;;;;;;;Datos LE mal tomados;Italo F/Javier Z
+95;9;Cobquecura;AMERB;-36.164783;-72.81875;22/03/2024;11 (termistor);12.4;48;11;55;305;3;Schroederichthys chilensis;2;11;4;7;;;;;;;;;;;;;;;;;;;Datos LE mal tomados;Italo F/Javier Z
+96;10;Cobquecura;AMERB;-36.164783;-72.81875;22/03/2024;12 (termistor);12;33;3;62;300;3;Schroederichthys chilensis;2;36;31;5;;;;;;;;;;;;;;;;;;;Datos LE mal tomados;Italo F/Javier Z
+97;11;Cobquecura;AMERB;-36.164783;-72.81875;22/03/2024;13 (termistor);11.5;31;6;17;272;3;Schroederichthys chilensis;3;48;21;18;9;;;;;;;;;;;;;;;;;;Datos LE mal tomados;Italo F/Javier Z
+98;9;Quintay A;AMERB;-33.18375;-71.689691;16/04/2024;1;11.1;42;14;86;178;3;Schroederichthys chilensis;2;19;18;1;;;;;;;;;;;;;;;;;;;;Italo F/Rodrigo A
+99;10;Quintay A;AMERB;-33.18375;-71.689691;16/04/2024;1;11.3;31;6;59;166;3;Schroederichthys chilensis;3;53;22;18;13;;;;;;;;;;;;;;;;;;;Italo F/Rodrigo A
+100;11;Quintay A;AMERB;-33.18375;-71.689691;16/04/2024;1;11.1;41;13;84;173;3;Schroederichthys chilensis;2;12;5;7;;;;;;;;;;;;;;;;;;;;Italo F/Rodrigo A
+101;12;Quintay A;AMERB;-33.18375;-71.689691;16/04/2024;1;11.8;37;10;96;183;3;Schroederichthys chilensis;3;10;8;1;1;;;;;;;;;;;;;;;;;;;Italo F/Rodrigo A
+102;13;Quintay A;AMERB;-33.18375;-71.689691;16/04/2024;1;12;42;15;97;205;3;Schroederichthys chilensis;2;62;59;3;;;;;;;;;;;;;;;;;;;;Italo F/Rodrigo A
+103;14;Quintay A;AMERB;-33.18375;-71.689691;16/04/2024;1;11.4;49;14;99;185;2;Schroederichthys chilensis;5;119;37;1;18;31;32;;;;;;;;;;;;;;;;;Italo F/Rodrigo A
+104;15;Quintay A;AMERB;-33.18375;-71.689691;16/04/2024;1;11.6;56;28;110;206;2;Schroederichthys chilensis;4;144;49;28;34;33;;;;;;;;;;;;;;;;;;Italo F/Rodrigo A
+105;1;Huiro;OA;-39.9561505;-73.6428688;21/04/2024;Caleta;10.7;31;9;88;164;2;Schroederichthys chilensis;1;15;15;;;;;;;;;;;;;;;;;;;;;Italo F/ Tomas W
+106;2;Huiro;OA;-39.9561505;-73.6428688;21/04/2024;Caleta;10.7;19;4;60;137;2;Schroederichthys chilensis;1;11;11;;;;;;;;;;;;;;;;;;;;;Italo F/ Tomas W
+107;3;Huiro;OA;-39.9561505;-73.6428688;21/04/2024;Caleta;12;31;11;69;133;2;Schroederichthys chilensis;2;11;8;3;;;;;;;;;;;;;;;;;;1;;Italo F/ Tomas W
+108;4;Huiro;OA;-39.9561505;-73.6428688;21/04/2024;Caleta;11.5;29;7;77;145;3;Schroederichthys chilensis;2;2;1;1;;;;;;;;;;;;;;;;;;;;Italo F/ Tomas W
+109;5;Huiro;OA;-39.9561505;-73.6428688;21/04/2024;Caleta;11.8;13;2;73;132;1;Schroederichthys chilensis;1;6;6;;;;;;;;;;;;;;;;;;;;;Italo F/ Tomas W
+110;6;Huiro;OA;-39.9561505;-73.6428688;21/04/2024;Caleta;11.6;21;5;50;110;1;Schroederichthys chilensis;2;12;11;1;;;;;;;;;;;;;;;;;;;;Italo F/ Tomas W
+111;7;Huiro;OA;-39.9561505;-73.6428688;21/04/2024;Caleta;11.1;19;3;95;173;3;Schroederichthys chilensis;1;3;3;;;;;;;;;;;;;;;;;;;;;Italo F/ Tomas W
+112;8;Huiro;OA;-39.9561505;-73.6428688;21/04/2024;Caleta;10.4;26;12;115;160;3;Schroederichthys chilensis;2;23;6;17;;;;;;;;;;;;;;;;;;1;;Italo F/ Tomas W
+113;9;Huiro;OA;-39.9561505;-73.6428688;21/04/2024;Caleta;10;28;12;95;160;3;Schroederichthys chilensis;2;31;22;9;;;;;;;;;;;;;;;;;;;;Italo F/ Tomas W
+114;10;Huiro;OA;-39.9561505;-73.6428688;21/04/2024;Caleta;9.4;29;6;92;160;3;Schroederichthys chilensis;1;9;9;;;;;;;;;;;;;;;;;;;2;;Italo F/ Tomas W
+115;11;Huiro;OA;-39.9561505;-73.6428688;21/04/2024;Caleta;10;16;3;87;145;3;Schroederichthys chilensis;1;12;12;;;;;;;;;;;;;;;;;;;;;Italo F/ Tomas W
+116;12;Huiro;OA;-39.9544;-73.6469;22/04/2024;4;10.6;43;16;120;183;3;Schroederichthys chilensis;4;38;10;22;5;1;;;;;;;;;;;;;;;;3;;Italo F/ Tomas W
+117;13;Huiro;OA;-39.9544;-73.6469;22/04/2024;4;10.4;30;16;56;117;3;Schroederichthys chilensis;1;11;11;;;;;;;;;;;;;;;;;;;1;;Italo F/ Tomas W
+118;1;Junin;AMP;-19.6720792;-70.1750658;02/12/2025;;11.7;21;2;;206;;Schroederichthys chilensis;2;49;14;35;;;;;;;;;;;;;;;;;;;Capsulas rodeadas con piure, choritos y caracol trofon;Italo F/ Gabriela W
+119;2;Junin;AMP;-19.6720792;-70.1750658;02/12/2025;;12;23;4;;184;;Schroederichthys chilensis;1;2;2;;;;;;;;;;;;;;;;;;;;;Italo F/ Gabriela W
+120;3;Junin;AMP;-19.6720792;-70.1750658;02/12/2025;;12.4;24;4;;241;;Schroederichthys chilensis;1;1;1;;;;;;;;;;;;;;;;;;;;;Italo F/ Gabriela W
+121;4;Junin;AMP;-19.6720792;-70.1750658;02/12/2025;;11.8;43;5;;257;;Schroederichthys chilensis;1;30;30;;;;;;;;;;;;;;;;;;;;;Italo F/ Gabriela W
+122;5;Junin;AMP;-19.6720792;-70.1750658;02/12/2025;;10.7;29;5;;220;3;Schroederichthys chilensis;1;31;31;;;;;;;;;;;;;;;;;;;;;Italo F/ Gabriela W
+123;6;Junin;AMP;-19.6720792;-70.1750658;02/12/2025;;11.2;26;3;;180;3;Schroederichthys chilensis;2;51;32;19;;;;;;;;;;;;;;;;;;;;Italo F/ Gabriela W
+124;7;Junin;AMP;-19.6720792;-70.1750658;02/12/2025;;11;26;2;;192;3;Schroederichthys chilensis;1;34;34;;;;;;;;;;;;;;;;;;;;;Italo F/ Gabriela W
+125;8;Junin;AMP;-19.6720792;-70.1750658;02/12/2025;;10.5;45;5;;212;3;Schroederichthys chilensis;3;44;18;26;30;;;;;;;;;;;;;;;;;1;Capsulas rodeadas con piure, choritos y caracol trofon;Italo F/ Gabriela W
+126;9;Junin;AMP;-19.6720792;-70.1750658;02/12/2025;;10.2;33;6;;200;3;Schroederichthys chilensis;3;56;20;36;6;;;;;;;;;;;;;;;;;;;Italo F/ Gabriela W
+127;10;Junin;AMP;-19.6720792;-70.1750658;02/12/2025;;9.7;36;5;;205;3;Schroederichthys chilensis;2;110;82;28;;;;;;;;;;;;;;;;;;;;Italo F/ Gabriela W
+128;11;Junin;AMP;-19.6720792;-70.1750658;02/12/2025;;10.1;30;4;;178;3;Schroederichthys chilensis;3;86;28;58;3;;;;;;;;;;;;;;;;;;;Italo F/ Gabriela W

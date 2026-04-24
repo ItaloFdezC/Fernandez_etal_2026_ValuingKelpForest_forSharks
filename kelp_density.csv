@@ -1,0 +1,370 @@
+﻿Date;Day;Month;Year;Site;Management;Transecto;Latitud decimal inicio;Longitud decimal inicio;Latitud decimal fin;Longitud decimal fin;Intervalo;Depth;Superficie (m2);Species;Clase;Abundance;Frondosity;Tipo de fondo;Tipo de comunidad;Observaciones
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;1;-29.05475;-71.48508;-29.05455;-71.48384;1;13;20;Lessonia trabeculata;Adulto;19;3;2;1,2;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;1;-29.05475;-71.48508;-29.05455;-71.48384;2;13;20;Lessonia trabeculata;Adulto;14;3;2;1,2;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;1;-29.05475;-71.48508;-29.05455;-71.48384;3;12.3;20;Lessonia trabeculata;Adulto;8;3;2;1,2;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;1;-29.05475;-71.48508;-29.05455;-71.48384;3;12.3;20;Lessonia trabeculata;Juvenil;1;3;2;1,2;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;1;-29.05475;-71.48508;-29.05455;-71.48384;5;9.3;20;Lessonia trabeculata;Adulto;10;3;2;1,2,20;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;1;-29.05475;-71.48508;-29.05455;-71.48384;5;9.3;20;Lessonia trabeculata;Juvenil;6;3;2;1,2,20;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;1;-29.05475;-71.48508;-29.05455;-71.48384;6;8;20;Lessonia trabeculata;Adulto;20;3;2;1,2,20;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;1;-29.05475;-71.48508;-29.05455;-71.48384;6;8;20;Lessonia trabeculata;Juvenil;5;3;2;1,2,20;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;1;-29.05475;-71.48508;-29.05455;-71.48384;7;8;20;Lessonia trabeculata;Adulto;22;3;2;1,2,20;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;1;-29.05475;-71.48508;-29.05455;-71.48384;7;8;20;Lessonia trabeculata;Juvenil;24;3;2;1,2,20;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;1;-29.05475;-71.48508;-29.05455;-71.48384;8;6;20;Lessonia trabeculata;Adulto;17;3;2;1,2,20;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;1;-29.05475;-71.48508;-29.05455;-71.48384;8;6;20;Lessonia trabeculata;Juvenil;55;3;2;1,2,20;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;1;-29.05475;-71.48508;-29.05455;-71.48384;9;6;20;Lessonia trabeculata;Adulto;10;3;2;1,2,20;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;1;-29.05475;-71.48508;-29.05455;-71.48384;9;6;20;Lessonia trabeculata;Juvenil;45;3;2;1,2,20;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;1;-29.05475;-71.48508;-29.05455;-71.48384;10;5;20;Lessonia trabeculata;Adulto;15;3;2;1,2,20;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;1;-29.05475;-71.48508;-29.05455;-71.48384;10;5;20;Lessonia trabeculata;Juvenil;40;3;2;1,2,20;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;2;-29.054;-71.48517;-29.05375;-71.48446;1;19;20;Lessonia trabeculata;Adulto;8;3;1,10;1,2,20;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;2;-29.054;-71.48517;-29.05375;-71.48446;1;19;20;Lessonia trabeculata;Juvenil;2;3;1,10;1,2,20;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;2;-29.054;-71.48517;-29.05375;-71.48446;2;19;20;Lessonia trabeculata;Adulto;15;3;1,10;1,2,20;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;2;-29.054;-71.48517;-29.05375;-71.48446;2;19;20;Lessonia trabeculata;Juvenil;1;3;1,10;1,2,20;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;2;-29.054;-71.48517;-29.05375;-71.48446;3;19;20;Lessonia trabeculata;Adulto;9;3;1,10;1,2,20;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;1;-29.05475;-71.48508;-29.05455;-71.48384;1;13;20;Lessonia trabeculata;Juvenil;0;NaN;2;1,2;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;2;-29.054;-71.48517;-29.05375;-71.48446;3;19;20;Lessonia trabeculata;Juvenil;2;3;1,10;1,2,20;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;1;-29.05475;-71.48508;-29.05455;-71.48384;2;13;20;Lessonia trabeculata;Juvenil;0;NaN;2;1,2;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;2;-29.054;-71.48517;-29.05375;-71.48446;4;18.7;20;Lessonia trabeculata;Adulto;10;3;1,10;1,2,20;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;2;-29.054;-71.48517;-29.05375;-71.48446;4;18.7;20;Lessonia trabeculata;Juvenil;2;3;1,10;1,2,20;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;2;-29.054;-71.48517;-29.05375;-71.48446;5;18.6;20;Lessonia trabeculata;Adulto;7;3;1,10;1,2,20;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;2;-29.054;-71.48517;-29.05375;-71.48446;5;18.6;20;Lessonia trabeculata;Juvenil;1;3;1,10;1,2,20;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;2;-29.054;-71.48517;-29.05375;-71.48446;6;16.9;20;Lessonia trabeculata;Adulto;10;3;1,10;1,2,20;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;2;-29.054;-71.48517;-29.05375;-71.48446;6;16.9;20;Lessonia trabeculata;Juvenil;3;3;1,10;1,2,20;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;2;-29.054;-71.48517;-29.05375;-71.48446;7;17;20;Lessonia trabeculata;Adulto;10;3;1,10;1,2,20;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;2;-29.054;-71.48517;-29.05375;-71.48446;7;17;20;Lessonia trabeculata;Juvenil;10;3;1,10;1,2,20;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;2;-29.054;-71.48517;-29.05375;-71.48446;8;16;20;Lessonia trabeculata;Adulto;26;3;1,10;1,2,20;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;2;-29.054;-71.48517;-29.05375;-71.48446;8;16;20;Lessonia trabeculata;Juvenil;8;3;1,10;1,2,20;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;2;-29.054;-71.48517;-29.05375;-71.48446;9;16.7;20;Lessonia trabeculata;Adulto;20;3;2;1,2,20;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;2;-29.054;-71.48517;-29.05375;-71.48446;9;16.7;20;Lessonia trabeculata;Juvenil;12;3;2;1,2,20;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;2;-29.054;-71.48517;-29.05375;-71.48446;10;15;20;Lessonia trabeculata;Adulto;32;3;2;1,2,20;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;2;-29.054;-71.48517;-29.05375;-71.48446;10;15;20;Lessonia trabeculata;Juvenil;12;3;2;1,2,20;
+26/10/2022;26;10;2022;Chañaral de Aceituno ALA;OA;3;-29.05199;-71.48684;-29.05258;-71.48583;7;11.7;20;Lessonia trabeculata;Adulto;12;3;10;1,14,20,24;
+26/10/2022;26;10;2022;Chañaral de Aceituno ALA;OA;3;-29.05199;-71.48684;-29.05258;-71.48583;1;11.7;20;Lessonia trabeculata;Juvenil;1;3;10;1,14,20,24;
+26/10/2022;26;10;2022;Chañaral de Aceituno ALA;OA;3;-29.05199;-71.48684;-29.05258;-71.48583;2;11;20;Lessonia trabeculata;Adulto;12;3;10;1,14,20,24;
+26/10/2022;26;10;2022;Chañaral de Aceituno ALA;OA;3;-29.05199;-71.48684;-29.05258;-71.48583;2;11;20;Lessonia trabeculata;Juvenil;0;3;10;1,14,20,24;
+26/10/2022;26;10;2022;Chañaral de Aceituno ALA;OA;3;-29.05199;-71.48684;-29.05258;-71.48583;3;11.2;20;Lessonia trabeculata;Adulto;21;3;4;1,14,20,24;
+26/10/2022;26;10;2022;Chañaral de Aceituno ALA;OA;3;-29.05199;-71.48684;-29.05258;-71.48583;3;11.2;20;Lessonia trabeculata;Juvenil;3;3;4;1,14,20,24;
+26/10/2022;26;10;2022;Chañaral de Aceituno ALA;OA;3;-29.05199;-71.48684;-29.05258;-71.48583;4;12.1;20;Lessonia trabeculata;Adulto;14;3;4;1,14,20,24;
+26/10/2022;26;10;2022;Chañaral de Aceituno ALA;OA;3;-29.05199;-71.48684;-29.05258;-71.48583;4;12.1;20;Lessonia trabeculata;Juvenil;0;3;4;1,14,20,24;
+26/10/2022;26;10;2022;Chañaral de Aceituno ALA;OA;3;-29.05199;-71.48684;-29.05258;-71.48583;5;12.5;20;Lessonia trabeculata;Adulto;23;3;10;1,14,20,24;
+26/10/2022;26;10;2022;Chañaral de Aceituno ALA;OA;3;-29.05199;-71.48684;-29.05258;-71.48583;5;12.5;20;Lessonia trabeculata;Juvenil;0;3;10;1,14,20,24;
+26/10/2022;26;10;2022;Chañaral de Aceituno ALA;OA;3;-29.05199;-71.48684;-29.05258;-71.48583;6;10;20;Lessonia trabeculata;Adulto;30;3;10;1,14,20,24;
+26/10/2022;26;10;2022;Chañaral de Aceituno ALA;OA;3;-29.05199;-71.48684;-29.05258;-71.48583;6;10;20;Lessonia trabeculata;Juvenil;3;3;10;1,14,20,24;
+26/10/2022;26;10;2022;Chañaral de Aceituno ALA;OA;3;-29.05199;-71.48684;-29.05258;-71.48583;7;11;20;Lessonia trabeculata;Adulto;29;3;10;1,14,20,24;
+26/10/2022;26;10;2022;Chañaral de Aceituno ALA;OA;3;-29.05199;-71.48684;-29.05258;-71.48583;7;11;20;Lessonia trabeculata;Juvenil;1;3;10;1,14,20,24;
+26/10/2022;26;10;2022;Chañaral de Aceituno ALA;OA;3;-29.05199;-71.48684;-29.05258;-71.48583;8;10;20;Lessonia trabeculata;Adulto;27;3;10;1,14,20,24;
+26/10/2022;26;10;2022;Chañaral de Aceituno ALA;OA;3;-29.05199;-71.48684;-29.05258;-71.48583;8;10;20;Lessonia trabeculata;Juvenil;1;3;10;1,14,20,24;
+26/10/2022;26;10;2022;Chañaral de Aceituno ALA;OA;3;-29.05199;-71.48684;-29.05258;-71.48583;9;8.4;20;Lessonia trabeculata;Adulto;27;3;10;1,14,20,24;
+26/10/2022;26;10;2022;Chañaral de Aceituno ALA;OA;3;-29.05199;-71.48684;-29.05258;-71.48583;9;8.4;20;Lessonia trabeculata;Juvenil;0;3;10;1,14,20,24;
+26/10/2022;26;10;2022;Chañaral de Aceituno ALA;OA;3;-29.05199;-71.48684;-29.05258;-71.48583;10;8.5;20;Lessonia trabeculata;Adulto;10;3;10;1,14,20,24;
+26/10/2022;26;10;2022;Chañaral de Aceituno ALA;OA;3;-29.05199;-71.48684;-29.05258;-71.48583;10;8.5;20;Lessonia trabeculata;Juvenil;1;3;10;1,14,20,24;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;1;-29.05475;-71.48508;-29.05455;-71.48384;4;12;20;Lessonia trabeculata;Adulto;12;2;2;1,2;
+24/10/2022;24;10;2022;Chañaral de Aceituno ALA;OA;1;-29.05475;-71.48508;-29.05455;-71.48384;4;12;20;Lessonia trabeculata;Juvenil;1;2;2;1,2;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;5;-29.13206;-71.48958;-29.13221;-71.48856;1;14.6;20;Lessonia trabeculata;Adulto;33;3;2;1, 20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;5;-29.13206;-71.48958;-29.13221;-71.48856;1;14.6;20;Lessonia trabeculata;Juvenil;1;3;2;1, 20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;5;-29.13206;-71.48958;-29.13221;-71.48856;2;10.7;20;Lessonia trabeculata;Adulto;6;3;2;1, 20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;5;-29.13206;-71.48958;-29.13221;-71.48856;2;10.7;20;Lessonia trabeculata;Juvenil;0;3;2;1, 20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;5;-29.13206;-71.48958;-29.13221;-71.48856;3;14.2;20;Lessonia trabeculata;Adulto;0;3;2;1, 20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;5;-29.13206;-71.48958;-29.13221;-71.48856;3;14.2;20;Lessonia trabeculata;Juvenil;0;3;2;1, 20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;5;-29.13206;-71.48958;-29.13221;-71.48856;4;15.8;20;Lessonia trabeculata;Adulto;10;3;2, 10;1, 20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;5;-29.13206;-71.48958;-29.13221;-71.48856;4;15.8;20;Lessonia trabeculata;Juvenil;0;3;2, 10;1, 20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;5;-29.13206;-71.48958;-29.13221;-71.48856;5;14.9;20;Lessonia trabeculata;Adulto;4;3;1, 10;1, 20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;5;-29.13206;-71.48958;-29.13221;-71.48856;5;14.9;20;Lessonia trabeculata;Juvenil;0;3;1, 10;1, 20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;10;-29.133167;-71.493778;-29.13411;-71.494;2;21.1;20;Lessonia trabeculata;Adulto;1;3;2;20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;10;-29.133167;-71.493778;-29.13411;-71.494;2;21.1;20;Lessonia trabeculata;Juvenil;0;3;2;20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;10;-29.133167;-71.493778;-29.13411;-71.494;3;16.2;20;Lessonia trabeculata;Adulto;2;3;2;1, 20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;10;-29.133167;-71.493778;-29.13411;-71.494;3;16.2;20;Lessonia trabeculata;Juvenil;0;3;2;1, 20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;10;-29.133167;-71.493778;-29.13411;-71.494;4;11.6;20;Lessonia trabeculata;Adulto;6;3;2;1, 20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;10;-29.133167;-71.493778;-29.13411;-71.494;4;11.6;20;Lessonia trabeculata;Juvenil;0;3;2;1, 20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;10;-29.133167;-71.493778;-29.13411;-71.494;5;13.7;20;Lessonia trabeculata;Adulto;5;3;10;1, 20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;10;-29.133167;-71.493778;-29.13411;-71.494;5;13.7;20;Lessonia trabeculata;Juvenil;0;3;10;1, 20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;10;-29.133167;-71.493778;-29.13411;-71.494;6;16;20;Lessonia trabeculata;Adulto;9;3;1, 2, 10;1, 20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;10;-29.133167;-71.493778;-29.13411;-71.494;6;16;20;Lessonia trabeculata;Juvenil;0;3;1, 2, 10;1, 20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;10;-29.133167;-71.493778;-29.13411;-71.494;7;16.7;20;Lessonia trabeculata;Adulto;5;3;1, 2, 10;1, 20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;10;-29.133167;-71.493778;-29.13411;-71.494;7;16.7;20;Lessonia trabeculata;Juvenil;0;3;1, 2, 10;1, 20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;10;-29.133167;-71.493778;-29.13411;-71.494;8;15.3;20;Lessonia trabeculata;Adulto;3;3;1, 2, 10;1, 20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;10;-29.133167;-71.493778;-29.13411;-71.494;8;15.3;20;Lessonia trabeculata;Juvenil;0;3;1, 2, 10;1, 20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;10;-29.133167;-71.493778;-29.13411;-71.494;9;13.7;20;Lessonia trabeculata;Adulto;1;3;1, 2, 6, 10;1, 20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;10;-29.133167;-71.493778;-29.13411;-71.494;9;13.7;20;Lessonia trabeculata;Juvenil;2;3;1, 2, 6, 10;1, 20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;10;-29.133167;-71.493778;-29.13411;-71.494;10;13.3;20;Lessonia trabeculata;Adulto;17;3;1, 2;1, 20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;10;-29.133167;-71.493778;-29.13411;-71.494;10;13.3;20;Lessonia trabeculata;Juvenil;0;3;1, 2;1, 20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;1;-29.140833;-71.501556;-29.141833;-71.50125;3;15.9;20;Lessonia trabeculata;Adulto;2;3;2;1,10;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;1;-29.140833;-71.501556;-29.141833;-71.50125;3;15.9;20;Lessonia trabeculata;Juvenil;0;3;2;1,10;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;10;-29.133167;-71.493778;-29.13411;-71.494;1;21.4;20;Lessonia trabeculata;Adulto;0;NaN;6;20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;10;-29.133167;-71.493778;-29.13411;-71.494;1;21.4;20;Lessonia trabeculata;Juvenil;0;NaN;6;20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;1;-29.140833;-71.501556;-29.141833;-71.50125;4;12.3;20;Lessonia trabeculata;Adulto;4;3;2;1,20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;1;-29.140833;-71.501556;-29.141833;-71.50125;4;12.3;20;Lessonia trabeculata;Juvenil;0;3;2;1,20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;1;-29.140833;-71.501556;-29.141833;-71.50125;5;7.6;20;Lessonia trabeculata;Adulto;2;3;2;1;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;1;-29.140833;-71.501556;-29.141833;-71.50125;5;7.6;20;Lessonia trabeculata;Juvenil;0;3;2;1;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;1;-29.140833;-71.501556;-29.141833;-71.50125;6;9;20;Lessonia trabeculata;Adulto;9;3;2;1;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;1;-29.140833;-71.501556;-29.141833;-71.50125;6;9;20;Lessonia trabeculata;Juvenil;1;3;2;1;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;1;-29.140833;-71.501556;-29.141833;-71.50125;7;10.2;20;Lessonia trabeculata;Adulto;17;3;2;1;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;1;-29.140833;-71.501556;-29.141833;-71.50125;7;10.2;20;Lessonia trabeculata;Juvenil;0;3;2;1;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;1;-29.140833;-71.501556;-29.141833;-71.50125;8;9.7;20;Lessonia trabeculata;Adulto;4;3;2;1;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;1;-29.140833;-71.501556;-29.141833;-71.50125;8;9.7;20;Lessonia trabeculata;Juvenil;0;3;2;1;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;1;-29.140833;-71.501556;-29.141833;-71.50125;9;9.5;20;Lessonia trabeculata;Adulto;12;3;2;1;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;1;-29.140833;-71.501556;-29.141833;-71.50125;9;9.5;20;Lessonia trabeculata;Juvenil;1;3;2;1;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;1;-29.140833;-71.501556;-29.141833;-71.50125;10;9;20;Lessonia trabeculata;Adulto;6;3;2;1;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;1;-29.140833;-71.501556;-29.141833;-71.50125;10;9;20;Lessonia trabeculata;Juvenil;1;3;2;1;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;5;-29.13206;-71.48958;-29.13221;-71.48856;6;11.6;20;Lessonia trabeculata;Adulto;8;3;2, 6;1, 20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;5;-29.13206;-71.48958;-29.13221;-71.48856;6;11.6;20;Lessonia trabeculata;Juvenil;1;3;2, 6;1, 20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;5;-29.13206;-71.48958;-29.13221;-71.48856;7;10.6;20;Lessonia trabeculata;Adulto;2;3;6, 10;1, 20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;5;-29.13206;-71.48958;-29.13221;-71.48856;7;10.6;20;Lessonia trabeculata;Juvenil;11;3;6, 10;1, 20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;1;-29.140833;-71.501556;-29.141833;-71.50125;1;17.4;20;Lessonia trabeculata;Adulto;0;NA;2,10,1;2;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;1;-29.140833;-71.501556;-29.141833;-71.50125;1;17.4;20;Lessonia trabeculata;Juvenil;0;NA;2,10,1;2;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;1;-29.140833;-71.501556;-29.141833;-71.50125;2;18;20;Lessonia trabeculata;Adulto;0;NA;1,10;2;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;1;-29.140833;-71.501556;-29.141833;-71.50125;2;18;20;Lessonia trabeculata;Juvenil;0;NA;1,10;2;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;5;-29.13206;-71.48958;-29.13221;-71.48856;8;8;20;Lessonia trabeculata;Adulto;6;3;10;1, 20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;5;-29.13206;-71.48958;-29.13221;-71.48856;8;8;20;Lessonia trabeculata;Juvenil;7;3;10;1, 20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;5;-29.13206;-71.48958;-29.13221;-71.48856;9;6.2;20;Lessonia trabeculata;Adulto;1;3;2;1, 20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;5;-29.13206;-71.48958;-29.13221;-71.48856;9;6.2;20;Lessonia trabeculata;Juvenil;6;3;2;1, 20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;5;-29.13206;-71.48958;-29.13221;-71.48856;10;6.4;20;Lessonia trabeculata;Adulto;6;3;2;1, 20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;5;-29.13206;-71.48958;-29.13221;-71.48856;10;6.4;20;Lessonia trabeculata;Juvenil;4;3;2;1, 20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;10;-29.133167;-71.493778;-29.13411;-71.494;9;16.7;20;Lessonia trabeculata;Adulto;1;3;1, 2, 12;1, 20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;10;-29.133167;-71.493778;-29.13411;-71.494;9;16.7;20;Lessonia trabeculata;Juvenil;4;3;1, 2, 12;1, 20;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;10;-29.133167;-71.493778;-29.13411;-71.494;10;15.3;20;Lessonia trabeculata;Adulto;17;3;1, 2, 12;1;
+27/10/2022;27;10;2022;Chañaral de Aceituno C;AMERB;10;-29.133167;-71.493778;-29.13411;-71.494;10;15.3;20;Lessonia trabeculata;Juvenil;0;3;1, 2, 12;1;
+22/03/2024;22;3;2024;Cobquecura;AMERB;4;-36.16628;-72.82042;-36.16617;-72.81923;1;18;20;Lessonia trabeculata;Adulto;22;3;2;20, 24;
+22/03/2024;22;3;2024;Cobquecura;AMERB;4;-36.16628;-72.82042;-36.16617;-72.81923;1;18;20;Lessonia trabeculata;Juvenil;0;3;2;20, 24;
+22/03/2024;22;3;2024;Cobquecura;AMERB;4;-36.16628;-72.82042;-36.16617;-72.81923;2;17;20;Lessonia trabeculata;Adulto;16;3;2;20, 24, 27;Phycogorgia fucata
+22/03/2024;22;3;2024;Cobquecura;AMERB;4;-36.16628;-72.82042;-36.16617;-72.81923;2;17;20;Lessonia trabeculata;Juvenil;0;3;2;20, 24, 27;Phycogorgia fucata
+22/03/2024;22;3;2024;Cobquecura;AMERB;4;-36.16628;-72.82042;-36.16617;-72.81923;3;17;20;Lessonia trabeculata;Adulto;8;3;2;20, 24, 27;Phycogorgia fucata
+22/03/2024;22;3;2024;Cobquecura;AMERB;4;-36.16628;-72.82042;-36.16617;-72.81923;3;17;20;Lessonia trabeculata;Juvenil;0;3;2;20, 24, 27;Phycogorgia fucata
+22/03/2024;22;3;2024;Cobquecura;AMERB;4;-36.16628;-72.82042;-36.16617;-72.81923;4;17;20;Lessonia trabeculata;Adulto;9;3;2;20, 24;
+22/03/2024;22;3;2024;Cobquecura;AMERB;4;-36.16628;-72.82042;-36.16617;-72.81923;4;17;20;Lessonia trabeculata;Juvenil;0;3;2;20, 24;
+22/03/2024;22;3;2024;Cobquecura;AMERB;4;-36.16628;-72.82042;-36.16617;-72.81923;5;16;20;Lessonia trabeculata;Adulto;8;3;2;20, 24;
+22/03/2024;22;3;2024;Cobquecura;AMERB;4;-36.16628;-72.82042;-36.16617;-72.81923;5;16;20;Lessonia trabeculata;Juvenil;0;3;2;20, 24;
+22/03/2024;22;3;2024;Cobquecura;AMERB;4;-36.16628;-72.82042;-36.16617;-72.81923;6;17;20;Lessonia trabeculata;Adulto;12;3;2;20, 24, 27;Phycogorgia fucata
+22/03/2024;22;3;2024;Cobquecura;AMERB;4;-36.16628;-72.82042;-36.16617;-72.81923;6;17;20;Lessonia trabeculata;Juvenil;2;3;2;20, 24, 27;Phycogorgia fucata
+22/03/2024;22;3;2024;Cobquecura;AMERB;4;-36.16628;-72.82042;-36.16617;-72.81923;7;16;20;Lessonia trabeculata;Adulto;7;3;2;20, 24, 27;Phycogorgia fucata
+22/03/2024;22;3;2024;Cobquecura;AMERB;4;-36.16628;-72.82042;-36.16617;-72.81923;7;16;20;Lessonia trabeculata;Juvenil;3;3;2;20, 24, 27;Phycogorgia fucata
+22/03/2024;22;3;2024;Cobquecura;AMERB;4;-36.16628;-72.82042;-36.16617;-72.81923;8;12;20;Lessonia trabeculata;Adulto;5;3;2;20, 24, 27;Phycogorgia fucata
+22/03/2024;22;3;2024;Cobquecura;AMERB;4;-36.16628;-72.82042;-36.16617;-72.81923;8;12;20;Lessonia trabeculata;Juvenil;14;3;2;20, 24, 27;Phycogorgia fucata
+22/03/2024;22;3;2024;Cobquecura;AMERB;4;-36.16628;-72.82042;-36.16617;-72.81923;9;12;20;Lessonia trabeculata;Adulto;21;3;2;20, 24, 27;Phycogorgia fucata
+22/03/2024;22;3;2024;Cobquecura;AMERB;4;-36.16628;-72.82042;-36.16617;-72.81923;9;12;20;Lessonia trabeculata;Juvenil;0;3;2;20, 24, 27;Phycogorgia fucata
+22/03/2024;22;3;2024;Cobquecura;AMERB;4;-36.16628;-72.82042;-36.16617;-72.81923;10;8;20;Lessonia trabeculata;Adulto;23;3;2;1, 20, 24;
+22/03/2024;22;3;2024;Cobquecura;AMERB;4;-36.16628;-72.82042;-36.16617;-72.81923;10;8;20;Lessonia trabeculata;Juvenil;20;3;2;1, 20, 24;
+22/03/2024;22;3;2024;Cobquecura;AMERB;5;-36.15997;-72.82558;-36.16011;-72.82442;1;20;20;Lessonia trabeculata;Adulto;30;3;10;20, 24, 27;Phycogorgia fucata
+22/03/2024;22;3;2024;Cobquecura;AMERB;5;-36.15997;-72.82558;-36.16011;-72.82442;1;20;20;Lessonia trabeculata;Juvenil;1;3;10;20, 24, 27;Phycogorgia fucata
+22/03/2024;22;3;2024;Cobquecura;AMERB;5;-36.15997;-72.82558;-36.16011;-72.82442;2;20;20;Lessonia trabeculata;Adulto;17;3;10;20, 24, 27;Phycogorgia fucata
+22/03/2024;22;3;2024;Cobquecura;AMERB;5;-36.15997;-72.82558;-36.16011;-72.82442;2;20;20;Lessonia trabeculata;Juvenil;6;3;10;20, 24, 27;Phycogorgia fucata
+22/03/2024;22;3;2024;Cobquecura;AMERB;5;-36.15997;-72.82558;-36.16011;-72.82442;3;19;20;Lessonia trabeculata;Adulto;21;3;10;20, 24, 27;Phycogorgia fucata, Rhodymenia
+22/03/2024;22;3;2024;Cobquecura;AMERB;5;-36.15997;-72.82558;-36.16011;-72.82442;3;19;20;Lessonia trabeculata;Juvenil;19;3;10;20, 24, 27;Phycogorgia fucata, Rhodymenia
+22/03/2024;22;3;2024;Cobquecura;AMERB;5;-36.15997;-72.82558;-36.16011;-72.82442;4;19;20;Lessonia trabeculata;Adulto;24;3;10;20, 24, 27;Phycogorgia fucata, Rhodymenia
+22/03/2024;22;3;2024;Cobquecura;AMERB;5;-36.15997;-72.82558;-36.16011;-72.82442;4;19;20;Lessonia trabeculata;Juvenil;0;3;10;20, 24, 27;Phycogorgia fucata, Rhodymenia
+22/03/2024;22;3;2024;Cobquecura;AMERB;5;-36.15997;-72.82558;-36.16011;-72.82442;5;18;20;Lessonia trabeculata;Adulto;17;3;10;20, 24, 27;Phycogorgia fucata, Rhodymenia
+22/03/2024;22;3;2024;Cobquecura;AMERB;5;-36.15997;-72.82558;-36.16011;-72.82442;5;18;20;Lessonia trabeculata;Juvenil;10;3;10;20, 24, 27;Phycogorgia fucata, Rhodymenia
+22/03/2024;22;3;2024;Cobquecura;AMERB;5;-36.15997;-72.82558;-36.16011;-72.82442;6;18;20;Lessonia trabeculata;Adulto;16;3;10;20;
+22/03/2024;22;3;2024;Cobquecura;AMERB;5;-36.15997;-72.82558;-36.16011;-72.82442;6;18;20;Lessonia trabeculata;Juvenil;6;3;10;20;
+22/03/2024;22;3;2024;Cobquecura;AMERB;5;-36.15997;-72.82558;-36.16011;-72.82442;7;16;20;Lessonia trabeculata;Adulto;14;3;10;20;
+22/03/2024;22;3;2024;Cobquecura;AMERB;5;-36.15997;-72.82558;-36.16011;-72.82442;7;16;20;Lessonia trabeculata;Juvenil;20;3;10;20;
+22/03/2024;22;3;2024;Cobquecura;AMERB;5;-36.15997;-72.82558;-36.16011;-72.82442;8;16;20;Lessonia trabeculata;Adulto;13;3;10;20, 24, 27;
+22/03/2024;22;3;2024;Cobquecura;AMERB;5;-36.15997;-72.82558;-36.16011;-72.82442;8;16;20;Lessonia trabeculata;Juvenil;6;3;10;20, 24, 27;
+22/03/2024;22;3;2024;Cobquecura;AMERB;5;-36.15997;-72.82558;-36.16011;-72.82442;9;10;20;Lessonia trabeculata;Adulto;20;3;10;1, 20, 24;
+22/03/2024;22;3;2024;Cobquecura;AMERB;5;-36.15997;-72.82558;-36.16011;-72.82442;9;10;20;Lessonia trabeculata;Juvenil;32;3;10;1, 20, 24;
+22/03/2024;22;3;2024;Cobquecura;AMERB;5;-36.15997;-72.82558;-36.16011;-72.82442;10;8;20;Lessonia trabeculata;Adulto;30;3;10;1, 20, 24;
+22/03/2024;22;3;2024;Cobquecura;AMERB;5;-36.15997;-72.82558;-36.16011;-72.82442;10;8;20;Lessonia trabeculata;Juvenil;27;3;10;1, 20, 24;
+22/03/2024;22;3;2024;Cobquecura;AMERB;1;-36.15398;-72.82269;-36.15443;-72.8216;1;9;20;Lessonia trabeculata;Adulto;18;3;10;20;
+22/03/2024;22;3;2024;Cobquecura;AMERB;1;-36.15398;-72.82269;-36.15443;-72.8216;1;9;20;Lessonia trabeculata;Juvenil;22;3;10;20;
+22/03/2024;22;3;2024;Cobquecura;AMERB;1;-36.15398;-72.82269;-36.15443;-72.8216;2;9;20;Lessonia trabeculata;Adulto;28;3;10;20;
+22/03/2024;22;3;2024;Cobquecura;AMERB;1;-36.15398;-72.82269;-36.15443;-72.8216;2;9;20;Lessonia trabeculata;Juvenil;31;3;10;20;
+22/03/2024;22;3;2024;Cobquecura;AMERB;1;-36.15398;-72.82269;-36.15443;-72.8216;3;11;20;Lessonia trabeculata;Adulto;33;3;10;20;
+22/03/2024;22;3;2024;Cobquecura;AMERB;1;-36.15398;-72.82269;-36.15443;-72.8216;3;11;20;Lessonia trabeculata;Juvenil;65;3;10;20;
+22/03/2024;22;3;2024;Cobquecura;AMERB;1;-36.15398;-72.82269;-36.15443;-72.8216;4;9;20;Lessonia trabeculata;Adulto;16;3;10;20;
+22/03/2024;22;3;2024;Cobquecura;AMERB;1;-36.15398;-72.82269;-36.15443;-72.8216;4;9;20;Lessonia trabeculata;Juvenil;33;3;10;20;
+22/03/2024;22;3;2024;Cobquecura;AMERB;1;-36.15398;-72.82269;-36.15443;-72.8216;5;8;20;Lessonia trabeculata;Adulto;34;3;10;2;
+22/03/2024;22;3;2024;Cobquecura;AMERB;1;-36.15398;-72.82269;-36.15443;-72.8216;5;8;20;Lessonia trabeculata;Juvenil;28;3;10;2;
+22/03/2024;22;3;2024;Cobquecura;AMERB;1;-36.15398;-72.82269;-36.15443;-72.8216;6;9;20;Lessonia trabeculata;Adulto;22;3;10;2;
+22/03/2024;22;3;2024;Cobquecura;AMERB;1;-36.15398;-72.82269;-36.15443;-72.8216;6;9;20;Lessonia trabeculata;Juvenil;18;3;10;2;
+22/03/2024;22;3;2024;Cobquecura;AMERB;1;-36.15398;-72.82269;-36.15443;-72.8216;7;9;20;Lessonia trabeculata;Adulto;28;3;10;2;
+22/03/2024;22;3;2024;Cobquecura;AMERB;1;-36.15398;-72.82269;-36.15443;-72.8216;7;9;20;Lessonia trabeculata;Juvenil;16;3;10;2;
+22/03/2024;22;3;2024;Cobquecura;AMERB;1;-36.15398;-72.82269;-36.15443;-72.8216;8;10;20;Lessonia trabeculata;Adulto;26;3;10;20;
+22/03/2024;22;3;2024;Cobquecura;AMERB;1;-36.15398;-72.82269;-36.15443;-72.8216;8;10;20;Lessonia trabeculata;Juvenil;37;3;10;20;
+22/03/2024;22;3;2024;Cobquecura;AMERB;1;-36.15398;-72.82269;-36.15443;-72.8216;9;10;20;Lessonia trabeculata;Adulto;23;3;10;20;
+22/03/2024;22;3;2024;Cobquecura;AMERB;1;-36.15398;-72.82269;-36.15443;-72.8216;9;10;20;Lessonia trabeculata;Juvenil;6;3;10;20;
+22/03/2024;22;3;2024;Cobquecura;AMERB;1;-36.15398;-72.82269;-36.15443;-72.8216;10;8;20;Lessonia trabeculata;Adulto;30;3;10;20;
+22/03/2024;22;3;2024;Cobquecura;AMERB;1;-36.15398;-72.82269;-36.15443;-72.8216;10;8;20;Lessonia trabeculata;Juvenil;6;3;10;20;
+21/04/2024;21;4;2024;Huiro;OA;1;-39.9539;-73.6208;;;11;8;50;Lessonia trabeculata;Adulto;63;3;;;
+21/04/2024;21;4;2024;Huiro;OA;1;-39.9539;-73.6208;;;11;8;50;Lessonia trabeculata;Juvenil;0;3;;;
+21/04/2024;21;4;2024;Huiro;OA;2;-39.9539;-73.6208;;;12.5;12.4;50;Lessonia trabeculata;Adulto;105;3;;;
+21/04/2024;21;4;2024;Huiro;OA;2;-39.9539;-73.6208;;;12.5;12.4;50;Lessonia trabeculata;Juvenil;6;3;;;
+22/04/2024;22;4;2024;Huiro;OA;3;-39.9544;-73.6469;;;12.7;10.2;50;Lessonia trabeculata;Adulto;93;3;;;
+22/04/2024;22;4;2024;Huiro;OA;3;-39.9544;-73.6469;;;12.7;10.2;50;Lessonia trabeculata;Juvenil;6;3;;;
+22/04/2024;22;4;2024;Huiro;OA;4;-39.9544;-73.6469;;;12;8;50;Lessonia trabeculata;Adulto;69;3;;;
+22/04/2024;22;4;2024;Huiro;OA;4;-39.9544;-73.6469;;;12;8;50;Lessonia trabeculata;Juvenil;34;3;;;
+16/04/2024;16;4;2024;Punta de Tralca;OA;1;-33.424504;-71.705757;-33.425248;-71.705144;1;5;20;Lessonia trabeculata;Adulto;8;3;4, 10;1, 20;
+16/04/2024;16;4;2024;Punta de Tralca;OA;1;-33.424504;-71.705757;-33.425248;-71.705144;1;5;20;Lessonia trabeculata;Juvenil;0;NA;4, 10;1, 20;
+16/04/2024;16;4;2024;Punta de Tralca;OA;1;-33.424504;-71.705757;-33.425248;-71.705144;2;4,3;20;Lessonia trabeculata;Adulto;5;3;4;1, 20;
+16/04/2024;16;4;2024;Punta de Tralca;OA;1;-33.424504;-71.705757;-33.425248;-71.705144;2;4,3;20;Lessonia trabeculata;Juvenil;0;NA;4;1, 20;
+16/04/2024;16;4;2024;Punta de Tralca;OA;1;-33.424504;-71.705757;-33.425248;-71.705144;4;4,5;20;Lessonia trabeculata;Adulto;8;3;4;1, 20;
+16/04/2024;16;4;2024;Punta de Tralca;OA;1;-33.424504;-71.705757;-33.425248;-71.705144;3;4,5;20;Lessonia trabeculata;Juvenil;0;NA;4;1, 20;
+16/04/2024;16;4;2024;Punta de Tralca;OA;2;-33.424852;-71.705094;-33.425619;-71.704512;1;1,7;20;Lessonia trabeculata;Adulto;6;3;4;1, 20;
+16/04/2024;16;4;2024;Punta de Tralca;OA;1;-33.424504;-71.705757;-33.425248;-71.705144;4;4,5;20;Lessonia trabeculata;Juvenil;0;NA;4;1, 20;
+16/04/2024;16;4;2024;Punta de Tralca;OA;2;-33.424852;-71.705094;-33.425619;-71.704512;2;2,1;20;Lessonia trabeculata;Adulto;10;3;4;1, 20;
+16/04/2024;16;4;2024;Punta de Tralca;OA;1;-33.424504;-71.705757;-33.425248;-71.705144;5;4;20;Lessonia trabeculata;Juvenil;0;NA;4;1, 20;
+16/04/2024;16;4;2024;Punta de Tralca;OA;2;-33.424852;-71.705094;-33.425619;-71.704512;4;2,6;20;Lessonia trabeculata;Adulto;1;3;4;1, 20;
+16/04/2024;16;4;2024;Punta de Tralca;OA;1;-33.424504;-71.705757;-33.425248;-71.705144;6;4,7;20;Lessonia trabeculata;Juvenil;0;NA;4;1;
+16/04/2024;16;4;2024;Punta de Tralca;OA;2;-33.424852;-71.705094;-33.425619;-71.704512;6;3,6;20;Lessonia trabeculata;Adulto;6;3;4, 10;1, 20;
+16/04/2024;16;4;2024;Punta de Tralca;OA;1;-33.424504;-71.705757;-33.425248;-71.705144;7;4,0;20;Lessonia trabeculata;Juvenil;0;NA;4;1;
+16/04/2024;16;4;2024;Punta de Tralca;OA;2;-33.424852;-71.705094;-33.425619;-71.704512;7;3,1;20;Lessonia trabeculata;Adulto;4;3;4, 10;1, 20;
+16/04/2024;16;4;2024;Punta de Tralca;OA;1;-33.424504;-71.705757;-33.425248;-71.705144;8;3,6;20;Lessonia trabeculata;Juvenil;0;NA;4;1;
+16/04/2024;16;4;2024;Punta de Tralca;OA;2;-33.424852;-71.705094;-33.425619;-71.704512;8;3,2;20;Lessonia trabeculata;Adulto;1;3;4, 10;1, 20;
+16/04/2024;16;4;2024;Punta de Tralca;OA;1;-33.424504;-71.705757;-33.425248;-71.705144;9;3,6;20;Lessonia trabeculata;Juvenil;0;NA;4;1;
+16/04/2024;16;4;2024;Punta de Tralca;OA;2;-33.424852;-71.705094;-33.425619;-71.704512;9;3,6;20;Lessonia trabeculata;Adulto;5;3;4, 10;1, 20;
+16/04/2024;16;4;2024;Punta de Tralca;OA;1;-33.424504;-71.705757;-33.425248;-71.705144;10;4,0;20;Lessonia trabeculata;Juvenil;0;NA;4;1;
+16/04/2024;16;4;2024;Punta de Tralca;OA;3;-33.423392;-71.706887;-33.42393;-71.706027;1;13,1;20;Lessonia trabeculata;Adulto;17;3;5;1;
+16/04/2024;16;4;2024;Punta de Tralca;OA;2;-33.424852;-71.705094;-33.425619;-71.704512;1;1,7;20;Lessonia trabeculata;Juvenil;1;NA;4;1, 20;
+16/04/2024;16;4;2024;Punta de Tralca;OA;3;-33.423392;-71.706887;-33.42393;-71.706027;2;12,5;20;Lessonia trabeculata;Adulto;13;3;10;1;
+16/04/2024;16;4;2024;Punta de Tralca;OA;2;-33.424852;-71.705094;-33.425619;-71.704512;2;2,1;20;Lessonia trabeculata;Juvenil;6;NA;4;1, 20;
+16/04/2024;16;4;2024;Punta de Tralca;OA;3;-33.423392;-71.706887;-33.42393;-71.706027;3;11,8;20;Lessonia trabeculata;Adulto;16;3;5;1;
+16/04/2024;16;4;2024;Punta de Tralca;OA;2;-33.424852;-71.705094;-33.425619;-71.704512;3;2,8;20;Lessonia trabeculata;Juvenil;25;NA;4;1, 20;
+16/04/2024;16;4;2024;Punta de Tralca;OA;3;-33.423392;-71.706887;-33.42393;-71.706027;4;11,9;20;Lessonia trabeculata;Adulto;14;3;5;1;
+16/04/2024;16;4;2024;Punta de Tralca;OA;2;-33.424852;-71.705094;-33.425619;-71.704512;4;2,6;20;Lessonia trabeculata;Juvenil;0;NA;4;1, 20;
+16/04/2024;16;4;2024;Punta de Tralca;OA;3;-33.423392;-71.706887;-33.42393;-71.706027;5;11,5;20;Lessonia trabeculata;Adulto;18;3;5;1;
+16/04/2024;16;4;2024;Punta de Tralca;OA;2;-33.424852;-71.705094;-33.425619;-71.704512;5;3,0;20;Lessonia trabeculata;Juvenil;0;NA;4;1, 20;
+16/04/2024;16;4;2024;Punta de Tralca;OA;3;-33.423392;-71.706887;-33.42393;-71.706027;7;11;20;Lessonia trabeculata;Adulto;19;3;10;1;
+16/04/2024;16;4;2024;Punta de Tralca;OA;2;-33.424852;-71.705094;-33.425619;-71.704512;6;3,6;20;Lessonia trabeculata;Juvenil;0;NA;4, 10;1, 20;
+16/04/2024;16;4;2024;Punta de Tralca;OA;2;-33.424852;-71.705094;-33.425619;-71.704512;7;3,1;20;Lessonia trabeculata;Juvenil;0;NA;4, 10;1, 20;
+16/04/2024;16;4;2024;Punta de Tralca;OA;2;-33.424852;-71.705094;-33.425619;-71.704512;8;3,2;20;Lessonia trabeculata;Juvenil;2;NA;4, 10;1, 20;
+16/04/2024;16;4;2024;Punta de Tralca;OA;2;-33.424852;-71.705094;-33.425619;-71.704512;9;3,6;20;Lessonia trabeculata;Juvenil;1;NA;4, 10;1, 20;
+16/04/2024;16;4;2024;Punta de Tralca;OA;2;-33.424852;-71.705094;-33.425619;-71.704512;10;3,1;20;Lessonia trabeculata;Juvenil;0;NA;4, 10;1, 20;
+16/04/2024;16;4;2024;Punta de Tralca;OA;3;-33.423392;-71.706887;-33.42393;-71.706027;1;13,1;20;Lessonia trabeculata;Juvenil;0;NA;5;1;
+16/04/2024;16;4;2024;Punta de Tralca;OA;3;-33.423392;-71.706887;-33.42393;-71.706027;2;12,5;20;Lessonia trabeculata;Juvenil;5;NA;10;1;
+16/04/2024;16;4;2024;Punta de Tralca;OA;3;-33.423392;-71.706887;-33.42393;-71.706027;3;11,8;20;Lessonia trabeculata;Juvenil;0;NA;5;1;
+16/04/2024;16;4;2024;Punta de Tralca;OA;3;-33.423392;-71.706887;-33.42393;-71.706027;4;11,9;20;Lessonia trabeculata;Juvenil;0;NA;5;1;
+16/04/2024;16;4;2024;Punta de Tralca;OA;3;-33.423392;-71.706887;-33.42393;-71.706027;5;11,5;20;Lessonia trabeculata;Juvenil;4;NA;5;1;
+16/04/2024;16;4;2024;Punta de Tralca;OA;3;-33.423392;-71.706887;-33.42393;-71.706027;6;10;20;Lessonia trabeculata;Juvenil;0;NA;10;1;
+16/04/2024;16;4;2024;Punta de Tralca;OA;3;-33.423392;-71.706887;-33.42393;-71.706027;7;11;20;Lessonia trabeculata;Juvenil;0;NA;10;1;
+16/04/2024;16;4;2024;Punta de Tralca;OA;3;-33.423392;-71.706887;-33.42393;-71.706027;8;13;20;Lessonia trabeculata;Juvenil;0;NA;10;1;
+16/04/2024;16;4;2024;Punta de Tralca;OA;3;-33.423392;-71.706887;-33.42393;-71.706027;9;13;20;Lessonia trabeculata;Juvenil;0;NA;10;1;
+16/04/2024;16;4;2024;Punta de Tralca;OA;3;-33.423392;-71.706887;-33.42393;-71.706027;10;15;20;Lessonia trabeculata;Juvenil;0;NA;10;1;
+16/04/2024;16;4;2024;Punta de Tralca;OA;1;-33.424504;-71.705757;-33.425248;-71.705144;3;4.5;20;Lessonia trabeculata;Adulto;5;2;4;1, 20;
+16/04/2024;16;4;2024;Punta de Tralca;OA;1;-33.424504;-71.705757;-33.425248;-71.705144;6;4.7;20;Lessonia trabeculata;Adulto;6;2;4;1;
+16/04/2024;16;4;2024;Punta de Tralca;OA;1;-33.424504;-71.705757;-33.425248;-71.705144;7;4;20;Lessonia trabeculata;Adulto;10;2;4;1;
+16/04/2024;16;4;2024;Punta de Tralca;OA;1;-33.424504;-71.705757;-33.425248;-71.705144;8;3.6;20;Lessonia trabeculata;Adulto;13;2;4;1;
+16/04/2024;16;4;2024;Punta de Tralca;OA;1;-33.424504;-71.705757;-33.425248;-71.705144;10;4;20;Lessonia trabeculata;Adulto;10;2;4;1;
+16/04/2024;16;4;2024;Punta de Tralca;OA;2;-33.424852;-71.705094;-33.425619;-71.704512;3;2.8;20;Lessonia trabeculata;Adulto;1;2;4;1, 20;
+16/04/2024;16;4;2024;Punta de Tralca;OA;2;-33.424852;-71.705094;-33.425619;-71.704512;5;3;20;Lessonia trabeculata;Adulto;6;2;4;1, 20;
+16/04/2024;16;4;2024;Punta de Tralca;OA;2;-33.424852;-71.705094;-33.425619;-71.704512;10;3.1;20;Lessonia trabeculata;Adulto;5;2;4, 10;1, 20;
+16/04/2024;16;4;2024;Punta de Tralca;OA;3;-33.423392;-71.706887;-33.42393;-71.706027;6;10;20;Lessonia trabeculata;Adulto;9;2;10;1;
+16/04/2024;16;4;2024;Punta de Tralca;OA;3;-33.423392;-71.706887;-33.42393;-71.706027;8;13;20;Lessonia trabeculata;Adulto;20;2;10;1;
+16/04/2024;16;4;2024;Punta de Tralca;OA;3;-33.423392;-71.706887;-33.42393;-71.706027;9;13;20;Lessonia trabeculata;Adulto;4;2;10;1;Algas con posturas de pintaroja
+16/04/2024;16;4;2024;Punta de Tralca;OA;3;-33.423392;-71.706887;-33.42393;-71.706027;10;15;20;Lessonia trabeculata;Adulto;21;2;10;1;
+16/04/2024;16;4;2024;Punta de Tralca;OA;1;-33.424504;-71.705757;-33.425248;-71.705144;5;4;20;Lessonia trabeculata;Adulto;1;1;4;1, 20;se observan otro individuo completamente comido, solo el disco en mal estado.
+16/04/2024;16;4;2024;Punta de Tralca;OA;1;-33.424504;-71.705757;-33.425248;-71.705144;9;3.6;20;Lessonia trabeculata;Adulto;16;1;4;1;
+01/12/2024;12;1;2024;Quintay A;AMERB;1;-33.18291;-71.69082;-33.18358;-71.68992;2;8.9;20;Lessonia trabeculata;Adulto;8;3;2;1, 20;
+01/12/2024;12;1;2024;Quintay A;AMERB;1;-33.18291;-71.69082;-33.18358;-71.68992;2;8.9;20;Lessonia trabeculata;Juvenil;0;3;2;1, 20;
+01/12/2024;12;1;2024;Quintay A;AMERB;1;-33.18291;-71.69082;-33.18358;-71.68992;3;9.8;20;Lessonia trabeculata;Adulto;9;3;2;1, 20;
+01/12/2024;12;1;2024;Quintay A;AMERB;1;-33.18291;-71.69082;-33.18358;-71.68992;3;9.8;20;Lessonia trabeculata;Juvenil;0;3;2;1, 20;
+01/12/2024;12;1;2024;Quintay A;AMERB;1;-33.18291;-71.69082;-33.18358;-71.68992;4;10;20;Lessonia trabeculata;Adulto;2;3;2;1, 20;
+01/12/2024;12;1;2024;Quintay A;AMERB;1;-33.18291;-71.69082;-33.18358;-71.68992;4;10;20;Lessonia trabeculata;Juvenil;0;3;2;1, 20;
+01/12/2024;12;1;2024;Quintay A;AMERB;1;-33.18291;-71.69082;-33.18358;-71.68992;5;11.6;20;Lessonia trabeculata;Adulto;2;3;2, 6;1, 20;
+01/12/2024;12;1;2024;Quintay A;AMERB;1;-33.18291;-71.69082;-33.18358;-71.68992;5;11.6;20;Lessonia trabeculata;Juvenil;0;3;2, 6;1, 20;
+01/12/2024;12;1;2024;Quintay A;AMERB;1;-33.18291;-71.69082;-33.18358;-71.68992;6;12;20;Lessonia trabeculata;Adulto;6;3;2, 6;1, 20;
+01/12/2024;12;1;2024;Quintay A;AMERB;1;-33.18291;-71.69082;-33.18358;-71.68992;6;12;20;Lessonia trabeculata;Juvenil;0;3;2, 6;1, 20;
+01/12/2024;12;1;2024;Quintay A;AMERB;1;-33.18291;-71.69082;-33.18358;-71.68992;7;11;20;Lessonia trabeculata;Adulto;12;3;2, 6;1, 20;
+01/12/2024;12;1;2024;Quintay A;AMERB;1;-33.18291;-71.69082;-33.18358;-71.68992;7;11;20;Lessonia trabeculata;Juvenil;0;3;2, 6;1, 20;
+01/12/2024;12;1;2024;Quintay A;AMERB;1;-33.18291;-71.69082;-33.18358;-71.68992;8;11.6;20;Lessonia trabeculata;Adulto;2;3;1, 10;1, 20;
+01/12/2024;12;1;2024;Quintay A;AMERB;1;-33.18291;-71.69082;-33.18358;-71.68992;8;11.6;20;Lessonia trabeculata;Juvenil;0;3;1, 10;1, 20;
+01/12/2024;12;1;2024;Quintay A;AMERB;1;-33.18291;-71.69082;-33.18358;-71.68992;9;11;20;Lessonia trabeculata;Adulto;8;3;1, 10;1, 20;
+01/12/2024;12;1;2024;Quintay A;AMERB;1;-33.18291;-71.69082;-33.18358;-71.68992;9;11;20;Lessonia trabeculata;Juvenil;0;3;1, 10;1, 20;
+01/12/2024;12;1;2024;Quintay A;AMERB;1;-33.18291;-71.69082;-33.18358;-71.68992;10;9.6;20;Lessonia trabeculata;Adulto;14;3;1, 10;1, 20;
+01/12/2024;12;1;2024;Quintay A;AMERB;1;-33.18291;-71.69082;-33.18358;-71.68992;10;9.6;20;Lessonia trabeculata;Juvenil;0;3;1, 10;1, 20;
+01/12/2024;12;1;2024;Quintay A;AMERB;5;-33.18788;-71.69888;-33.18853;-71.69801;1;16.7;20;Lessonia trabeculata;Adulto;10;3;2;1, 20, 24;
+01/12/2024;12;1;2024;Quintay A;AMERB;5;-33.18788;-71.69888;-33.18853;-71.69801;1;16.7;20;Lessonia trabeculata;Juvenil;0;3;2;1, 20, 24;
+01/12/2024;12;1;2024;Quintay A;AMERB;5;-33.18788;-71.69888;-33.18853;-71.69801;3;11.2;20;Lessonia trabeculata;Adulto;9;3;2;1, 10, 20, 27;Hidrozoos
+01/12/2024;12;1;2024;Quintay A;AMERB;5;-33.18788;-71.69888;-33.18853;-71.69801;3;11.2;20;Lessonia trabeculata;Juvenil;0;3;2;1, 10, 20, 27;Hidrozoos
+01/12/2024;12;1;2024;Quintay A;AMERB;5;-33.18788;-71.69888;-33.18853;-71.69801;4;10;20;Lessonia trabeculata;Adulto;16;3;2;1, 10, 20, 27;Hidrozoos
+01/12/2024;12;1;2024;Quintay A;AMERB;5;-33.18788;-71.69888;-33.18853;-71.69801;4;10;20;Lessonia trabeculata;Juvenil;0;3;2;1, 10, 20, 27;Hidrozoos
+01/12/2024;12;1;2024;Quintay A;AMERB;5;-33.18788;-71.69888;-33.18853;-71.69801;5;9.5;20;Lessonia trabeculata;Adulto;16;3;2;1, 10, 20, 27;Hidrozoos
+01/12/2024;12;1;2024;Quintay A;AMERB;5;-33.18788;-71.69888;-33.18853;-71.69801;5;9.5;20;Lessonia trabeculata;Juvenil;0;3;2;1, 10, 20, 27;Hidrozoos
+01/12/2024;12;1;2024;Quintay A;AMERB;5;-33.18788;-71.69888;-33.18853;-71.69801;6;8.3;20;Lessonia trabeculata;Adulto;20;3;2;1, 10, 20, 27;Hidrozoos
+01/12/2024;12;1;2024;Quintay A;AMERB;5;-33.18788;-71.69888;-33.18853;-71.69801;6;8.3;20;Lessonia trabeculata;Juvenil;0;3;2;1, 10, 20, 27;Hidrozoos
+01/12/2024;12;1;2024;Quintay A;AMERB;5;-33.18788;-71.69888;-33.18853;-71.69801;7;9.3;20;Lessonia trabeculata;Adulto;8;3;2;1, 10, 20, 27;Hidrozoos
+01/12/2024;12;1;2024;Quintay A;AMERB;5;-33.18788;-71.69888;-33.18853;-71.69801;7;9.3;20;Lessonia trabeculata;Juvenil;0;3;2;1, 10, 20, 27;Hidrozoos
+01/12/2024;12;1;2024;Quintay A;AMERB;5;-33.18788;-71.69888;-33.18853;-71.69801;8;8.4;20;Lessonia trabeculata;Adulto;8;3;2;1, 10, 20, 27;Hidrozoos
+01/12/2024;12;1;2024;Quintay A;AMERB;5;-33.18788;-71.69888;-33.18853;-71.69801;8;8.4;20;Lessonia trabeculata;Juvenil;0;3;2;1, 10, 20, 27;Hidrozoos
+01/12/2024;12;1;2024;Quintay A;AMERB;5;-33.18788;-71.69888;-33.18853;-71.69801;9;7.2;20;Lessonia trabeculata;Adulto;4;3;1, 2, 6;1, 10, 20, 27;Hidrozoos
+01/12/2024;12;1;2024;Quintay A;AMERB;5;-33.18788;-71.69888;-33.18853;-71.69801;9;7.2;20;Lessonia trabeculata;Juvenil;5;3;1, 2, 6;1, 10, 20, 27;Hidrozoos
+01/12/2024;12;1;2024;Quintay A;AMERB;5;-33.18788;-71.69888;-33.18853;-71.69801;10;NaN;20;Lessonia trabeculata;Adulto;12;3;2;1, 10, 20, 27;Hidrozoos
+01/12/2024;12;1;2024;Quintay A;AMERB;5;-33.18788;-71.69888;-33.18853;-71.69801;10;NaN;20;Lessonia trabeculata;Juvenil;20;3;2;1, 10, 20, 27;Hidrozoos
+23/01/2024;23;1;2024;Quintay A;AMERB;7;-33.191307;-71.702025;-33.191945;-71.701317;1;15.6;20;Lessonia trabeculata;Adulto;5;3;2, 1;1, 20;
+23/01/2024;23;1;2024;Quintay A;AMERB;7;-33.191307;-71.702025;-33.191945;-71.701317;1;15.6;20;Lessonia trabeculata;Juvenil;0;3;2, 1;1, 20;
+23/01/2024;23;1;2024;Quintay A;AMERB;7;-33.191307;-71.702025;-33.191945;-71.701317;2;15.7;20;Lessonia trabeculata;Adulto;5;3;2, 1, 10;1, 20;
+23/01/2024;23;1;2024;Quintay A;AMERB;7;-33.191307;-71.702025;-33.191945;-71.701317;2;15.7;20;Lessonia trabeculata;Juvenil;6;3;2, 1, 10;1, 20;
+23/01/2024;23;1;2024;Quintay A;AMERB;7;-33.191307;-71.702025;-33.191945;-71.701317;3;14.7;20;Lessonia trabeculata;Adulto;3;3;2, 1;1, 20;
+23/01/2024;23;1;2024;Quintay A;AMERB;7;-33.191307;-71.702025;-33.191945;-71.701317;3;14.7;20;Lessonia trabeculata;Juvenil;0;3;2, 1;1, 20;
+23/01/2024;23;1;2024;Quintay A;AMERB;7;-33.191307;-71.702025;-33.191945;-71.701317;4;15.2;20;Lessonia trabeculata;Adulto;3;3;1, 10;1, 20;
+23/01/2024;23;1;2024;Quintay A;AMERB;7;-33.191307;-71.702025;-33.191945;-71.701317;4;15.2;20;Lessonia trabeculata;Juvenil;5;3;1, 10;1, 20;
+23/01/2024;23;1;2024;Quintay A;AMERB;7;-33.191307;-71.702025;-33.191945;-71.701317;5;13.9;20;Lessonia trabeculata;Adulto;3;3;1, 2;1, 20;
+23/01/2024;23;1;2024;Quintay A;AMERB;7;-33.191307;-71.702025;-33.191945;-71.701317;5;13.9;20;Lessonia trabeculata;Juvenil;0;3;1, 2;1, 20;
+23/01/2024;23;1;2024;Quintay A;AMERB;7;-33.191307;-71.702025;-33.191945;-71.701317;6;12;20;Lessonia trabeculata;Adulto;6;3;2, 10;1, 20;
+23/01/2024;23;1;2024;Quintay A;AMERB;7;-33.191307;-71.702025;-33.191945;-71.701317;6;12;20;Lessonia trabeculata;Juvenil;4;3;2, 10;1, 20;
+23/01/2024;23;1;2024;Quintay A;AMERB;7;-33.191307;-71.702025;-33.191945;-71.701317;7;11.4;20;Lessonia trabeculata;Adulto;5;3;2, 1, 10;1, 20;
+23/01/2024;23;1;2024;Quintay A;AMERB;7;-33.191307;-71.702025;-33.191945;-71.701317;7;11.4;20;Lessonia trabeculata;Juvenil;0;3;2, 1, 10;1, 20;
+23/01/2024;23;1;2024;Quintay A;AMERB;7;-33.191307;-71.702025;-33.191945;-71.701317;8;12.9;20;Lessonia trabeculata;Adulto;7;3;1, 2;1, 20;
+23/01/2024;23;1;2024;Quintay A;AMERB;7;-33.191307;-71.702025;-33.191945;-71.701317;8;12.9;20;Lessonia trabeculata;Juvenil;0;3;1, 2;1, 20;
+23/01/2024;23;1;2024;Quintay A;AMERB;7;-33.191307;-71.702025;-33.191945;-71.701317;9;10;20;Lessonia trabeculata;Adulto;9;3;2;1, 20;
+23/01/2024;23;1;2024;Quintay A;AMERB;7;-33.191307;-71.702025;-33.191945;-71.701317;9;10;20;Lessonia trabeculata;Juvenil;0;3;2;1, 20;
+23/01/2024;23;1;2024;Quintay A;AMERB;7;-33.191307;-71.702025;-33.191945;-71.701317;10;9.4;20;Lessonia trabeculata;Adulto;12;3;1, 2, 10;1, 20;
+23/01/2024;23;1;2024;Quintay A;AMERB;7;-33.191307;-71.702025;-33.191945;-71.701317;10;9.4;20;Lessonia trabeculata;Juvenil;0;3;1, 2, 10;1, 20;
+01/12/2024;12;1;2024;Quintay A;AMERB;1;-33.18291;-71.69082;-33.18358;-71.68992;1;10;20;Lessonia trabeculata;Adulto;10;2;2;1, 20;
+01/12/2024;12;1;2024;Quintay A;AMERB;1;-33.18291;-71.69082;-33.18358;-71.68992;1;10;20;Lessonia trabeculata;Juvenil;0;2;2;1, 20;
+01/12/2024;12;1;2024;Quintay A;AMERB;5;-33.18788;-71.69888;-33.18853;-71.69801;2;14;20;Lessonia trabeculata;Adulto;7;2;2;1, 10, 20, 27;Hidrozoos
+01/12/2024;12;1;2024;Quintay A;AMERB;5;-33.18788;-71.69888;-33.18853;-71.69801;2;14;20;Lessonia trabeculata;Juvenil;0;2;2;1, 10, 20, 27;Hidrozoos
+14/02/2024;14;2;2024;Ventanas;AMERB;5;-32.72773;-71.5068;-32.72779;-71.50574;1;15.8;20;Lessonia trabeculata;Adulto;8;3;10,4,6;1,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;5;-32.72773;-71.5068;-32.72779;-71.50574;1;15.8;20;Lessonia trabeculata;Juvenil;0;3;10,4,6;1,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;5;-32.72773;-71.5068;-32.72779;-71.50574;2;16;20;Lessonia trabeculata;Adulto;4;3;10,4,6;1,20,24;
+14/02/2024;14;2;2024;Ventanas;AMERB;5;-32.72773;-71.5068;-32.72779;-71.50574;2;16;20;Lessonia trabeculata;Juvenil;0;3;10,4,6;1,20,24;
+14/02/2024;14;2;2024;Ventanas;AMERB;5;-32.72773;-71.5068;-32.72779;-71.50574;3;15.2;20;Lessonia trabeculata;Adulto;13;3;10,4,6;1,20,24;
+14/02/2024;14;2;2024;Ventanas;AMERB;5;-32.72773;-71.5068;-32.72779;-71.50574;3;15.2;20;Lessonia trabeculata;Juvenil;0;3;10,4,6;1,20,24;
+14/02/2024;14;2;2024;Ventanas;AMERB;5;-32.72773;-71.5068;-32.72779;-71.50574;5;14.2;20;Lessonia trabeculata;Adulto;9;3;10,4,6;1,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;5;-32.72773;-71.5068;-32.72779;-71.50574;5;14.2;20;Lessonia trabeculata;Juvenil;15;3;10,4,6;1,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;5;-32.72773;-71.5068;-32.72779;-71.50574;6;13.7;20;Lessonia trabeculata;Adulto;20;3;10,4,6;1,10,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;5;-32.72773;-71.5068;-32.72779;-71.50574;6;13.7;20;Lessonia trabeculata;Juvenil;0;3;10,4,6;1,10,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;5;-32.72773;-71.5068;-32.72779;-71.50574;7;13.4;20;Lessonia trabeculata;Adulto;14;3;10,4,6;1,10,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;5;-32.72773;-71.5068;-32.72779;-71.50574;7;13.4;20;Lessonia trabeculata;Juvenil;0;3;10,4,6;1,10,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;5;-32.72773;-71.5068;-32.72779;-71.50574;8;13;20;Lessonia trabeculata;Adulto;21;3;10,4,6;1,10,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;5;-32.72773;-71.5068;-32.72779;-71.50574;8;13;20;Lessonia trabeculata;Juvenil;0;3;10,4,6;1,10,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;5;-32.72773;-71.5068;-32.72779;-71.50574;9;13;20;Lessonia trabeculata;Adulto;27;3;10,4,6;1,10,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;5;-32.72773;-71.5068;-32.72779;-71.50574;9;13;20;Lessonia trabeculata;Juvenil;1;3;10,4,6;1,10,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;1;-32.722699;-71.5077741;-32.7222384;-71.506827;1;9;20;Lessonia trabeculata;Adulto;43;3;1,4;4,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;1;-32.722699;-71.5077741;-32.7222384;-71.506827;2;9;20;Lessonia trabeculata;Adulto;6;3;1,4;4,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;1;-32.722699;-71.5077741;-32.7222384;-71.506827;2;9;20;Lessonia trabeculata;Juvenil;1;3;1,4;4,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;1;-32.722699;-71.5077741;-32.7222384;-71.506827;3;9;20;Lessonia trabeculata;Adulto;21;3;1,4;4,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;1;-32.722699;-71.5077741;-32.7222384;-71.506827;4;9;20;Lessonia trabeculata;Adulto;21;3;1,4;4,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;1;-32.722699;-71.5077741;-32.7222384;-71.506827;5;7,9;20;Lessonia trabeculata;Juvenil;2;3;1,4;4,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;1;-32.722699;-71.5077741;-32.7222384;-71.506827;5;7,9;20;Lessonia trabeculata;Adulto;41;3;1,4;4,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;1;-32.722699;-71.5077741;-32.7222384;-71.506827;6;6;20;Lessonia trabeculata;Adulto;8;3;1,4;4,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;1;-32.722699;-71.5077741;-32.7222384;-71.506827;7;6;20;Lessonia trabeculata;Adulto;15;3;1,4;4,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;1;-32.722699;-71.5077741;-32.7222384;-71.506827;8;6;20;Lessonia trabeculata;Adulto;8;3;1,4;4,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;1;-32.722699;-71.5077741;-32.7222384;-71.506827;9;6;20;Lessonia trabeculata;Adulto;17;3;1,4;4,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;1;-32.722699;-71.5077741;-32.7222384;-71.506827;10;6;20;Lessonia trabeculata;Adulto;16;3;1,4;4,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;3;-32.72484;-71.50642;-32.72436;-71.50539;1;9;20;Lessonia trabeculata;Adulto;22;3;1,4;4,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;3;-32.72484;-71.50642;-32.72436;-71.50539;2;7;20;Lessonia trabeculata;Juvenil;44;3;1,4;4,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;3;-32.72484;-71.50642;-32.72436;-71.50539;3;8;20;Lessonia trabeculata;Adulto;7;3;1,4;4,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;3;-32.72484;-71.50642;-32.72436;-71.50539;4;8;20;Lessonia trabeculata;Adulto;14;3;1,4;4,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;3;-32.72484;-71.50642;-32.72436;-71.50539;4;8;20;Lessonia trabeculata;Juvenil;2;3;1,4;4,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;3;-32.72484;-71.50642;-32.72436;-71.50539;8;8;20;Lessonia trabeculata;Adulto;25;3;1,4;4,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;3;-32.72484;-71.50642;-32.72436;-71.50539;6;8,2;20;Lessonia trabeculata;Adulto;18;3;1,4;4,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;3;-32.72484;-71.50642;-32.72436;-71.50539;6;8,2;20;Lessonia trabeculata;Juvenil;2;3;1,4;4,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;3;-32.72484;-71.50642;-32.72436;-71.50539;7;7,2;20;Lessonia trabeculata;Juvenil;17;3;1,4;4,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;3;-32.72484;-71.50642;-32.72436;-71.50539;7;7,2;20;Lessonia trabeculata;Adulto;13;3;1,4;4,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;3;-32.72484;-71.50642;-32.72436;-71.50539;8;7;20;Lessonia trabeculata;Juvenil;34;3;1,4;4,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;3;-32.72484;-71.50642;-32.72436;-71.50539;8;7;20;Lessonia trabeculata;Adulto;25;3;1,4;4,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;3;-32.72484;-71.50642;-32.72436;-71.50539;9;6;20;Lessonia trabeculata;Juvenil;55;3;1,4;4,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;3;-32.72484;-71.50642;-32.72436;-71.50539;9;6;20;Lessonia trabeculata;Adulto;17;3;1,4;4,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;3;-32.72484;-71.50642;-32.72436;-71.50539;10;6;20;Lessonia trabeculata;Juvenil;5;3;1,4;4,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;3;-32.72484;-71.50642;-32.72436;-71.50539;10;6;20;Lessonia trabeculata;Adulto;9;3;1,4;4,20;
+14/02/2024;14;2;2024;Ventanas;AMERB;5;-32.72773;-71.5068;-32.72779;-71.50574;4;15.5;20;Lessonia trabeculata;Adulto;18;2;10,4,6;1,20,24;
+14/02/2024;14;2;2024;Ventanas;AMERB;5;-32.72773;-71.5068;-32.72779;-71.50574;4;15.5;20;Lessonia trabeculata;Juvenil;0;2;10,4,6;1,20,24;
+02/12/2025;2;12;2025;Junin;AMP;1;-19.6720792;-70.1750658;-19.6720792;-70.1750658;;;50;Lessonia trabeculata;Adulto;116;3;;;
+02/12/2025;2;12;2025;Junin;AMP;1;-19.6720792;-70.1750658;-19.6720792;-70.1750658;;;50;Lessonia trabeculata;Juvenil;63;3;;;
+02/12/2025;2;12;2025;Junin;AMP;2;-19.6720792;-70.1750658;-19.6720792;-70.1750658;;;50;Lessonia trabeculata;Adulto;103;3;;;
+02/12/2025;2;12;2025;Junin;AMP;2;-19.6720792;-70.1750658;-19.6720792;-70.1750658;;;50;Lessonia trabeculata;Juvenil;47;3;;;
+02/12/2025;2;12;2025;Junin;AMP;3;-19.6720792;-70.1750658;-19.6720792;-70.1750658;;;50;Lessonia trabeculata;Adulto;119;3;;;
+02/12/2025;2;12;2025;Junin;AMP;3;-19.6720792;-70.1750658;-19.6720792;-70.1750658;;;50;Lessonia trabeculata;Juvenil;94;3;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
